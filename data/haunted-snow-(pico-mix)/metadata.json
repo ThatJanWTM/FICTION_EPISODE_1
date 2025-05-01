@@ -1,6 +1,6 @@
 {
-	"songRating": 4,
-	"allowNewTag": false,
+	"songRating": 6,
+	"allowNewTag": true,
 	"freeplayPrevStart": 0,
 	"freeplayPrevEnd": 28.48,
 	"freeplaySongLength": 142.4,

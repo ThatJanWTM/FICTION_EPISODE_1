@@ -1,8 +1,9 @@
 {
 	"songRating": 5,
+	"allowNewTag": true,
 	"freeplayPrevStart": 0,
-	"freeplayPrevEnd": 27.32,
-	"freeplaySongLength": 136.615,
+	"freeplayPrevEnd": 28.43,
+	"freeplaySongLength": 142.153,
 	"freeplayCharacter": "pico",
 	"albumId": "fictionAlbumBonus",
 	"altInstrumentalSongs": "Toxicus Nubila,Toxicus Nubila (Classic)"
