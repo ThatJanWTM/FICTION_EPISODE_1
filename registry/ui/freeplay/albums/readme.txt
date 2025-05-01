@@ -1,0 +1,1 @@
+put the .json for your albums (images must exist in their respective folder)
