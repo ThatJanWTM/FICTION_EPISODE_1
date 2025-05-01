@@ -1,0 +1,146 @@
+{
+	"camera_boyfriend": [
+		-250,
+		-20
+	],
+	"_editorMeta": {
+		"boyfriend": "Slimey",
+		"dad": "LilSnow",
+		"gf": "rocky"
+	},
+	"preload": {
+		"images/characters/h3atedLand/slime-death-Shiny": 3,
+		"images/characters/h3atedLand/NegativeBeing": 3,
+		"images/characters/h3atedLand/LilSnow": 3,
+		"images/characters/h3atedLand/Slimey": 3,
+		"images/characters/h3atedLand/LilSnow-Shiny": 3,
+		"images/characters/h3atedLand/rocky": 3,
+		"images/characters/h3atedLand/rockyShiny": 3,
+		"images/characters/h3atedLand/Slimey-Shiny": 3,
+		"images/ASHL/slimeyMove": 3,
+		"images/characters/h3atedLand/slime-death": 3,
+		"images/ASHL/titleCard": 3,
+		"images/ASHL/slimeyMove-shiny": 3
+	},
+	"stageUI": "pixel",
+	"boyfriend": [
+		190,
+		112
+	],
+	"girlfriend": [
+		166,
+		105
+	],
+	"isPixelStage": true,
+	"defaultZoom": 1,
+	"camera_girlfriend": [
+		450,
+		0
+	],
+	"objects": [
+		{
+			"x": -459,
+			"y": -246,
+			"scale": [
+				10,
+				10
+			],
+			"image": "ASHL/white",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "whiteColor",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 0,
+			"y": 16,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/BG",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "bgASHL",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"x": -456,
+			"y": -249,
+			"scale": [
+				10,
+				10
+			],
+			"image": "ASHL/overlay",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "whiteOverlay",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 0,
+			"y": 16,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/Floor",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "floorASHL",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_speed": 1,
+	"opponent": [
+		189,
+		112
+	],
+	"directory": "",
+	"hide_girlfriend": false
+}

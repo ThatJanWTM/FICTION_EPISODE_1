@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<SubTexture name="default0000" x="1" y="1" width="61" height="51" frameX="0" frameY="-2" frameWidth="65" frameHeight="53" />
+	<SubTexture name="default0001" x="1" y="1" width="61" height="51" frameX="0" frameY="-2" frameWidth="65" frameHeight="53" />
+	<SubTexture name="peeved0000" x="62" y="1" width="61" height="51" frameX="0" frameY="-2" frameWidth="65" frameHeight="53" />
+	<SubTexture name="peeved0001" x="62" y="1" width="61" height="51" frameX="0" frameY="-2" frameWidth="65" frameHeight="53" />
+	<SubTexture name="peeved0002" x="62" y="1" width="61" height="51" frameX="0" frameY="-2" frameWidth="65" frameHeight="53" />
+	<SubTexture name="myWife0000" x="1" y="52" width="61" height="51" frameX="0" frameY="-2" frameWidth="65" frameHeight="53" />
+	<SubTexture name="myWife0001" x="1" y="52" width="61" height="51" frameX="0" frameY="-2" frameWidth="65" frameHeight="53" />
+</TextureAtlas>

@@ -1,0 +1,61 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Set Song Length", "130000\r", "0, expoOut"]
+			]
+		],
+		[
+			75333.3333333333,
+			[
+				["Toggle Trail", "1", ""]
+			]
+		],
+		[
+			86000,
+			[
+				["Toggle Trail", "0", ""]
+			]
+		],
+		[
+			128666.666666666,
+			[
+				["HUD gone", "", ""],
+				["Flashing Camera", "blue", ""]
+			]
+		],
+		[
+			139333.333333333,
+			[
+				["Set Song Length", "206000", "0.4, expoOut"]
+			]
+		],
+		[
+			139333.333333333,
+			[
+				["Change Character", "Dad", "jeff_spectral"],
+				["Flashing Camera", "blue", ""]
+			]
+		],
+		[
+			139333.333333333,
+			[
+				["Toggle Trail", "1", ""]
+			]
+		],
+		[
+			139333.333333333,
+			[
+				["HUD return", "", ""]
+			]
+		],
+		[
+			182000,
+			[
+				["Set Cam Zoom", "1", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

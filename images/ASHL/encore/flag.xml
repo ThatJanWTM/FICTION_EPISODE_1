@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flag.png"><SubTexture name="flag wave0000" x="0" y="0" width="28" height="48" frameX="0" frameY="0" frameWidth="28" frameHeight="48" />
+<SubTexture name="flag wave0001" x="28" y="0" width="28" height="48" frameX="0" frameY="0" frameWidth="28" frameHeight="48" />
+<SubTexture name="flag wave0002" x="0" y="48" width="28" height="48" frameX="0" frameY="0" frameWidth="28" frameHeight="48" />
+<SubTexture name="flag wave0003" x="28" y="48" width="28" height="48" frameX="0" frameY="0" frameWidth="28" frameHeight="48" />
+</TextureAtlas>

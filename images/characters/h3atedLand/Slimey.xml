@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Slimey.png" width="96" height="89">
+	<SubTexture name="LilSnow idle0000" x="5" y="41" width="20" height="10" frameX="-5" frameY="-19" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow idle0001" x="5" y="73" width="18" height="11" frameX="-6" frameY="-18" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow idle0002" x="80" y="5" width="11" height="16" rotated="true" frameX="-7" frameY="-18" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow up0000" x="68" y="70" width="12" height="14" frameX="-9" frameY="-15" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow up0001" x="78" y="27" width="13" height="12" rotated="true" frameX="-9" frameY="-16" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow down0000" x="61" y="49" width="7" height="18" rotated="true" frameX="-6" frameY="-22" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow down0001" x="67" y="27" width="8" height="16" rotated="true" frameX="-7" frameY="-21" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow left0000" x="49" y="49" width="9" height="19" rotated="true" frameX="-5" frameY="-20" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow left0001" x="26" y="73" width="18" height="11" frameX="-5" frameY="-18" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow right0000" x="67" y="5" width="10" height="19" rotated="true" frameX="-6" frameY="-19" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow right0001" x="47" y="73" width="18" height="11" frameX="-7" frameY="-18" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow MISSup0000" x="5" y="54" width="19" height="16" rotated="true" frameX="-5" frameY="-10" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow MISSup0001" x="27" y="54" width="19" height="16" rotated="true" frameX="-5" frameY="-10" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow MISSdown0000" x="30" y="5" width="15" height="20" rotated="true" frameX="-4" frameY="-14" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow MISSdown0001" x="29" y="28" width="15" height="19" rotated="true" frameX="-4" frameY="-14" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow MISSleft0000" x="5" y="5" width="22" height="15" frameX="-2" frameY="-14" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow MISSleft0001" x="5" y="23" width="21" height="15" frameX="-2" frameY="-14" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow MISSright0000" x="48" y="5" width="16" height="19" rotated="true" frameX="-6" frameY="-13" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="LilSnow MISSright0001" x="48" y="27" width="16" height="19" rotated="true" frameX="-6" frameY="-13" frameWidth="31" frameHeight="35"/>
+</TextureAtlas>

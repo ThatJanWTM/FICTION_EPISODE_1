@@ -1,0 +1,38 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		220
+	],
+	"no_antialiasing": true,
+	"scale": 6,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				-19
+			],
+			"anim": "Default",
+			"loop_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "default",
+			"loop_name": "default"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Peeved",
+			"idle_offsets": [
+				0,
+				-19
+			],
+			"loop_name": "peeved",
+			"idle_name": "peeved"
+		}
+	],
+	"image": "nenePixel"
+}

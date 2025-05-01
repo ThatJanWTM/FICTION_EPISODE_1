@@ -1,0 +1,4 @@
+Change the zoom variables in Jan's Cam Utilities script
+
+Value 1: Dad, BF, GF
+Value 2: New Number

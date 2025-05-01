@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"Double Dilemma (Pico Mix)",
+			"bf",
+			[
+				46,
+				176,
+				209
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"storyName": "Double Dilemma (Pico Mix)",
+	"weekName": "doubleDilemma-pico",
+	"hideStoryMode": true,
+	"weekBefore": "WeekSnowH3atr",
+	"startUnlocked": true
+}

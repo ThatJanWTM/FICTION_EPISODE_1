@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "name": "Fiction Overload Album 1",
+  "artists": ["ThatJan (ft. caser)"],
+  "albumArtAsset": "freeplay/albumRoll/fictionAlbum1",
+  "albumTitleAsset": "freeplay/albumRoll/fictionAlbum1-text"
+}

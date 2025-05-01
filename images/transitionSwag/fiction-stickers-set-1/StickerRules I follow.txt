@@ -1,0 +1,1 @@
+Every drawing has exactly 8 ctrl + o Outlines in aseprite, just putting this here so I don't forget

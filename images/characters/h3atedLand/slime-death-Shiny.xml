@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="slime-death-Shiny.png" width="74" height="84">
+	<SubTexture name="slime-death slimey death0000" x="61" y="5" width="8" height="16" rotated="true" frameX="-7" frameY="-21" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0001" x="31" y="39" width="7" height="18" rotated="true" frameX="-6" frameY="-22" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0002" x="53" y="5" width="5" height="20" rotated="true" frameX="-5" frameY="-24" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0003" x="35" y="5" width="3" height="24" rotated="true" frameX="-3" frameY="-26" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0004" x="35" y="5" width="3" height="24" rotated="true" frameX="-3" frameY="-26" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0005" x="35" y="5" width="3" height="24" rotated="true" frameX="-3" frameY="-26" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0006" x="35" y="5" width="3" height="24" rotated="true" frameX="-3" frameY="-26" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0007" x="5" y="63" width="16" height="16" frameX="-7" frameY="-13" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0008" x="56" y="63" width="12" height="12" frameX="-9" frameY="-15" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0009" x="57" y="28" width="12" height="14" rotated="true" frameX="-8" frameY="-15" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0010" x="41" y="63" width="12" height="14" rotated="true" frameX="-8" frameY="-15" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0011" x="61" y="24" width="1" height="1" frameX="-0" frameY="-0" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0012" x="61" y="24" width="1" height="1" frameX="-0" frameY="-0" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0013" x="61" y="24" width="1" height="1" frameX="-0" frameY="-0" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death slimey death0014" x="61" y="24" width="1" height="1" frameX="-0" frameY="-0" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death GO loop0000" x="41" y="5" width="9" height="21" rotated="true" frameX="-5" frameY="-8" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death GO loop0001" x="5" y="39" width="23" height="11" frameX="-4" frameY="-7" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death GO loop0002" x="5" y="23" width="25" height="13" frameX="-3" frameY="-6" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death GO loop0003" x="5" y="5" width="27" height="15" frameX="-2" frameY="-5" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death revive0000" x="41" y="29" width="4" height="20" rotated="true" frameX="-5" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death revive0001" x="48" y="29" width="6" height="18" rotated="true" frameX="-6" frameY="-10" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death revive0002" x="41" y="52" width="16" height="8" frameX="-7" frameY="-9" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death revive0003" x="24" y="60" width="14" height="10" frameX="-8" frameY="-8" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="slime-death revive0004" x="41" y="52" width="16" height="8" frameX="-7" frameY="-9" frameWidth="31" frameHeight="35"/>
+</TextureAtlas>

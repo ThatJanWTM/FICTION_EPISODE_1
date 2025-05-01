@@ -1,0 +1,116 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		220
+	],
+	"no_antialiasing": true,
+	"scale": 6,
+	"animations": [
+		{
+			"loop_name": "BFpix Default",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFpix Default",
+			"anim": "Default",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Smile",
+			"anim": "Smile",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neutral",
+			"anim": "Neutral",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Uh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Uh",
+			"anim": "Uh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Dude",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Dude",
+			"anim": "Dude",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Smug",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Smug",
+			"anim": "Smug",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Old",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Old",
+			"anim": "Old",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Im spanking my monkey rn bro",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Im spanking my monkey rn bro",
+			"anim": "Wh?",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "BFpix"
+}

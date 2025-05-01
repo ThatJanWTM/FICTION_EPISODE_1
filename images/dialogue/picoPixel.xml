@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="picoPixel.png">
+	<SubTexture name="default0000" x="1" y="1" width="46" height="53" frameX="-9" frameY="-3" frameWidth="60" frameHeight="56" />
+	<SubTexture name="default0001" x="1" y="1" width="46" height="53" frameX="-9" frameY="-3" frameWidth="60" frameHeight="56" />
+	<SubTexture name="peeved0000" x="47" y="1" width="46" height="53" frameX="-9" frameY="-3" frameWidth="60" frameHeight="56" />
+	<SubTexture name="peeved0001" x="47" y="1" width="46" height="53" frameX="-9" frameY="-3" frameWidth="60" frameHeight="56" />
+	<SubTexture name="dudeWhatTheFuck0000" x="1" y="54" width="46" height="53" frameX="-9" frameY="-3" frameWidth="60" frameHeight="56" />
+	<SubTexture name="dudeWhatTheFuck0001" x="1" y="54" width="46" height="53" frameX="-9" frameY="-3" frameWidth="60" frameHeight="56" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+{
+	"name": "Fiction Overload: Episode 1",
+	"description": "(Made for P-Slice) The new and improved A Snow H3ated Funk experience!",
+	"restart": true,
+	"runsGlobally": true,
+	"color": [0, 255, 0],
+	"discordRPC": "1358552975307571280",
+	"iconFramerate": 10
+}

@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "i hate you btw.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "so anyways what do you and your gf do for a living?",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "y'know, besides...",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "''speedrunning''",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.06
+		},
+		{
+			"expression": "Default",
+			"text": "We fuck.",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "bfpix",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "Hard.",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "bfpix",
+			"speed": 0.06
+		},
+		{
+			"expression": "Smug",
+			"text": "Sexy Style.",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "bfpix",
+			"speed": 0.08
+		},
+		{
+			"expression": "talk",
+			"text": ". . .",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.09
+		},
+		{
+			"expression": "talk",
+			"text": "i'm gonna fucking end it dude.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.04
+		},
+		{
+			"expression": "talk",
+			"text": "you're making it hard to like you.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.03,
+			"portrait": "snow"
+		},
+		{
+			"expression": "Dude",
+			"text": "Man FUCK YOU with you stupid green ass, fuck off.",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.05,
+			"portrait": "bfpix"
+		},
+		{
+			"expression": "talk",
+			"text": "ugh...... ",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.09,
+			"portrait": "snow"
+		}
+	]
+}

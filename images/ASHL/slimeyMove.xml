@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="slimeyMove.png">
+	<SubTexture name="slimeyMove0001" x="0" y="0" width="431" height="248" frameX="0" frameY="0" frameWidth="431" frameHeight="248" />
+	<SubTexture name="slimeyMove0002" x="431" y="0" width="431" height="248" frameX="0" frameY="0" frameWidth="431" frameHeight="248" />
+	<SubTexture name="slimeyMove0003" x="0" y="248" width="431" height="248" frameX="0" frameY="0" frameWidth="431" frameHeight="248" />
+	<SubTexture name="slimeyMove0004" x="431" y="248" width="431" height="248" frameX="0" frameY="0" frameWidth="431" frameHeight="248" />
+	<SubTexture name="slimeyMove0005" x="0" y="496" width="431" height="248" frameX="0" frameY="0" frameWidth="431" frameHeight="248" />
+	<SubTexture name="slimeyMove0006" x="431" y="496" width="431" height="248" frameX="0" frameY="0" frameWidth="431" frameHeight="248" />
+</TextureAtlas>

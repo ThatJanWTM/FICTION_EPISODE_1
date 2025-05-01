@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rocky.png">
+<SubTexture name="rocky left0000" x="0" y="0" width="31" height="35" frameX="0" frameY="0" frameWidth="31" frameHeight="35" />
+<SubTexture name="rocky left0001" x="31" y="0" width="31" height="35" frameX="0" frameY="0" frameWidth="31" frameHeight="35" />
+</TextureAtlas>

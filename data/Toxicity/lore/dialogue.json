@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "Smile",
+			"text": "Funky beats you got there snow man!\r",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "BFpix",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "thanks i guess….",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "so anyways, what do you and your gf do for a living?\r",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.03
+		},
+		{
+			"expression": "Smile",
+			"text": "Usually we just go around and ask people to rap against us.",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "BFpix",
+			"speed": 0.03
+		},
+		{
+			"expression": "Uh",
+			"text": "Y'know, whenever people aren't trying to either kill me, take my soul or just beat me up.",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "BFpix",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "sounds tough kid.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.03
+		},
+		{
+			"expression": "Neutral",
+			"text": "Sir, we are 19.",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "BFpix",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "sounds tough young adult.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.03
+		},
+		{
+			"expression": "Default",
+			"text": "Don't let that distract you from finishing off our battle!",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "BFpix",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "oh yea that.",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.05,
+			"sound": "WeekSH/SHVoiceClip"
+		}
+	]
+}

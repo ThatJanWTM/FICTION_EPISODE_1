@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="shinySparkles.png" width="132" height="145">
+	<SubTexture name="Shiny0000" x="79" y="119" width="16" height="16" frameX="-0" frameY="-16" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0001" x="31" y="117" width="17" height="22" frameX="-4" frameY="-21" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0002" x="111" y="75" width="16" height="21" frameX="-5" frameY="-22" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0003" x="111" y="99" width="11" height="17" frameX="-5" frameY="-22" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0004" x="82" y="87" width="26" height="27" rotated="true" frameX="-5" frameY="-22" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0005" x="5" y="117" width="23" height="23" frameX="-4" frameY="-21" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0006" x="5" y="5" width="39" height="23" frameX="-4" frameY="-21" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0007" x="5" y="31" width="39" height="27" frameX="-9" frameY="-16" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0008" x="5" y="31" width="39" height="27" frameX="-9" frameY="-16" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0009" x="5" y="61" width="38" height="28" frameX="-10" frameY="-16" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0010" x="46" y="88" width="33" height="23" frameX="-10" frameY="-21" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0011" x="47" y="47" width="22" height="38" frameX="-21" frameY="-5" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0012" x="106" y="5" width="21" height="33" frameX="-21" frameY="-10" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0013" x="47" y="5" width="26" height="39" frameX="-16" frameY="-0" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0014" x="76" y="5" width="27" height="38" frameX="-16" frameY="-0" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0015" x="72" y="47" width="22" height="37" rotated="true" frameX="-5" frameY="-5" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0016" x="5" y="92" width="37" height="22" frameX="-5" frameY="-5" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0017" x="97" y="46" width="28" height="11" frameX="-9" frameY="-6" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0018" x="97" y="60" width="28" height="12" frameX="-9" frameY="-5" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0019" x="51" y="119" width="11" height="17" rotated="true" frameX="-10" frameY="-5" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0020" x="65" y="114" width="11" height="17" rotated="true" frameX="-10" frameY="-5" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0021" x="97" y="75" width="7" height="7" frameX="-9" frameY="-10" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="Shiny0022" x="65" y="134" width="5" height="5" frameX="-10" frameY="-11" frameWidth="48" frameHeight="48"/>
+</TextureAtlas>

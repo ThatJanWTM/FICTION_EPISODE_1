@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "nossa, aquilo foi algo.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.03,
+			"portrait": "snow"
+		},
+		{
+			"expression": "talk",
+			"text": ". . . ",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.3,
+			"portrait": "snow"
+		},
+		{
+			"expression": "Default",
+			"text": "Beep pee!",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.03,
+			"portrait": "BFpix"
+		},
+		{
+			"expression": "talk",
+			"text": "cara para de fazer barulho e fala direito.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.03,
+			"portrait": "snow"
+		},
+		{
+			"expression": "Smug",
+			"text": "Ta.",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.03,
+			"portrait": "BFpix"
+		},
+		{
+			"expression": "talk",
+			"text": "então, tipo, eu tenho que fazer mais alguma coisa ou…?",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.04,
+			"portrait": "snow"
+		},
+		{
+			"expression": "Smile",
+			"text": "Música número 2 baby!!!",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.04,
+			"portrait": "BFpix"
+		},
+		{
+			"expression": "talk",
+			"text": "ah...",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.055,
+			"portrait": "snow"
+		}
+	]
+}

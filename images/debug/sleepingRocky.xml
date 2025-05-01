@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<SubTexture name="sleepingRocky0000" x="1" y="1" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0001" x="1" y="1" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0002" x="1" y="1" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0003" x="29" y="1" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0004" x="29" y="1" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0005" x="29" y="1" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0006" x="1" y="1" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0007" x="1" y="1" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0008" x="1" y="1" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0009" x="57" y="1" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0010" x="57" y="1" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0011" x="57" y="1" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0012" x="1" y="30" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0013" x="1" y="30" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0014" x="1" y="30" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0015" x="29" y="30" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0016" x="29" y="30" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0017" x="29" y="30" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0018" x="1" y="30" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0019" x="1" y="30" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0020" x="1" y="30" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0021" x="57" y="30" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0022" x="57" y="30" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+	<SubTexture name="sleepingRocky0023" x="57" y="30" width="28" height="29" frameX="-4" frameY="-5" frameWidth="36" frameHeight="35" />
+</TextureAtlas>

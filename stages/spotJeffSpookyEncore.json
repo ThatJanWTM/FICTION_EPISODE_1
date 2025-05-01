@@ -1,0 +1,202 @@
+{
+	"camera_boyfriend": [
+		-350,
+		0
+	],
+	"preload": {
+		"images/characters/SpecJeff": 3,
+		"images/jeff/spooky/jeffPlatformSpooky": 3,
+		"images/jeff/spooky/spotlightLightSpooky": 3
+	},
+	"_editorMeta": {
+		"boyfriend": "pico",
+		"dad": "JeffHalloween",
+		"gf": "nene"
+	},
+	"girlfriend": [
+		343,
+		69
+	],
+	"boyfriend": [
+		1023,
+		170
+	],
+	"stageUI": "",
+	"objects": [
+		{
+			"x": -465,
+			"y": -49,
+			"scale": [
+				0.75,
+				0.75
+			],
+			"image": "jeff/spooky/encore/pumpkinImage",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "pumpkin1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1.1,
+				1.1
+			],
+			"alpha": 0.2,
+			"type": "sprite"
+		},
+		{
+			"x": 267,
+			"y": -175,
+			"scale": [
+				0.75,
+				0.75
+			],
+			"image": "jeff/spooky/encore/pumpkinImage",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "pumpkin2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1.1,
+				1.1
+			],
+			"alpha": 0.2,
+			"type": "sprite"
+		},
+		{
+			"x": 1058,
+			"y": -126,
+			"scale": [
+				0.75,
+				0.75
+			],
+			"image": "jeff/spooky/encore/pumpkinImage",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "pumpkin3",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1.1,
+				1.1
+			],
+			"alpha": 0.2,
+			"type": "sprite"
+		},
+		{
+			"x": 1676,
+			"y": 44,
+			"scale": [
+				0.75,
+				0.75
+			],
+			"image": "jeff/spooky/encore/pumpkinImage",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "pumpkin4",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1.1,
+				1.1
+			],
+			"alpha": 0.2,
+			"type": "sprite"
+		},
+		{
+			"x": -778,
+			"y": -976,
+			"scale": [
+				5,
+				5
+			],
+			"image": "jeff/Spooky/jeffPlatformSpooky",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "jeffPlatform",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -793,
+			"y": -910,
+			"scale": [
+				5,
+				5
+			],
+			"image": "jeff/Spooky/spotlightLightSpooky",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "spotlightJeff",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -853,
+			"y": -549,
+			"scale": [
+				2.7,
+				2.6
+			],
+			"image": "jeff/spooky/encore/orangeTint",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "orangeOverlay",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 0.15,
+			"type": "sprite"
+		}
+	],
+	"defaultZoom": 0.45,
+	"camera_speed": 1.7,
+	"opponent": [
+		-170,
+		170
+	],
+	"directory": "",
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		250,
+		0
+	]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="titleEnter.png" width="938" height="113">
+	<SubTexture name="ENTER FREEZE0000" x="932" y="60" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1477" frameHeight="79"/>
+	<SubTexture name="ENTER IDLE0000" x="5" y="5" width="928" height="52" frameX="-29" frameY="-22" frameWidth="1477" frameHeight="79"/>
+	<SubTexture name="ENTER PRESSED0000" x="932" y="60" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1477" frameHeight="79"/>
+	<SubTexture name="ENTER PRESSED0001" x="5" y="60" width="924" height="48" frameX="-31" frameY="-24" frameWidth="1477" frameHeight="79"/>
+</TextureAtlas>

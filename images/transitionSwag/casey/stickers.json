@@ -1,0 +1,10 @@
+{
+  "name": "casey",
+  "artist": "ThatJan, Bluecyberpig",
+  "stickers": {
+    "casey": ["caseySticker"]
+  },
+  "stickerPacks": {
+    "all": ["casey"]
+  }
+}

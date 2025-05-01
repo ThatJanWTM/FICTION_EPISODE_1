@@ -1,0 +1,79 @@
+{
+	"camera_boyfriend": [
+		-150,
+		-50
+	],
+	"preload": {
+		"images/characters/h3atedLand/slime-death-Shiny": 3,
+		"images/characters/h3atedLand/NegativeBeing": 3,
+		"images/characters/secret/ABC": 3,
+		"images/ASHL/": 3,
+		"images/characters/h3atedLand/Slimey": 3,
+		"images/ASHL/nega/Static": 3,
+		"images/ASHL/nega/SpotEye": 3,
+		"images/achievements/negativeForce_nomiss-pixel": 3,
+		"images/characters/h3atedLand/Slimey-Shiny": 3,
+		"images/negativeflash": 3,
+		"images/characters/h3atedLand/slime-death": 3
+	},
+	"_editorMeta": {
+		"boyfriend": "Slimey",
+		"dad": "NegativeBeing",
+		"gf": "Rocky"
+	},
+	"isPixelStage": true,
+	"girlfriend": [
+		167,
+		109
+	],
+	"stageUI": "pixel",
+	"boyfriend": [
+		190,
+		112
+	],
+	"defaultZoom": 1,
+	"objects": [
+		{
+			"x": 0,
+			"y": 16,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/nega/negative",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Negative",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		650,
+		400
+	],
+	"opponent": [
+		190,
+		112
+	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": true
+}

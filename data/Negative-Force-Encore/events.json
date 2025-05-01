@@ -1,0 +1,24 @@
+{
+	"events": [
+		[
+			20400,
+			[
+				["Toggle Trail", "1", ""]
+			]
+		],
+		[
+			117600,
+			[
+				["Change Character", "Dad", "nbEnd"],
+				["Toggle Trail", "0", ""]
+			]
+		],
+		[
+			118800,
+			[
+				["Flashing Camera", "negativeflash", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

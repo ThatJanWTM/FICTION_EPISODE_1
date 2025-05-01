@@ -1,0 +1,31 @@
+{
+	"storyName": "jeff is wondering how you see this?",
+	"difficulties": "Hard, Encore",
+	"hideFreeplay": false,
+	"weekBackground": "jefferson",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekSnowH3atr",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"JeffSong",
+			"jeff",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "JeffSong"
+}

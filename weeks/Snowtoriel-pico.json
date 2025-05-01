@@ -1,0 +1,26 @@
+{
+	"storyName": "tutorial (snow mix)",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "snow",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Tutorial (Fiction Mix) (Pico Mix)",
+			"snow",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"weekName": "Tutorial (Snow Mix)"
+}

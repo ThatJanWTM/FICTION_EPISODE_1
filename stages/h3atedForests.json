@@ -1,0 +1,259 @@
+{
+	"camera_boyfriend": [
+		-250,
+		-20
+	],
+	"_editorMeta": {
+		"boyfriend": "Slimey-Shiny",
+		"gf": "rockyShiny",
+		"dad": "LilSnow-Shiny"
+	},
+	"preload": {
+		"images/ASHL/slimeyMove": 3,
+		"images/characters/h3atedLand/": 3,
+		"images/ASHL/slimeyMove-shiny": 3,
+		"images/ASHL/": 3,
+		"images/ASHL/encore/titleCard": 3
+	},
+	"girlfriend": [
+		403,
+		207
+	],
+	"isPixelStage": true,
+	"boyfriend": [
+		190,
+		112
+	],
+	"stageUI": "pixel",
+	"camera_girlfriend": [
+		200,
+		-50
+	],
+	"defaultZoom": 1,
+	"objects": [
+		{
+			"x": -524,
+			"y": -191,
+			"scale": [
+				10,
+				10
+			],
+			"image": "ASHL/encore/white",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "white",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 0,
+			"y": 16,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/encore/bg3",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "bgTrees",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 0,
+			"y": 16,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/encore/bg2",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "bgDecor",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 276,
+			"y": 118,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/encore/flag",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "flag",
+			"firstAnimation": "wave",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "wave",
+					"fps": 8,
+					"name": "flag wave",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 0,
+			"y": 16,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/encore/bg1",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "bgFloor",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"x": -518,
+			"y": -182,
+			"scale": [
+				10,
+				10
+			],
+			"image": "ASHL/encore/overlay",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "overlay",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 0,
+			"y": 16,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/encore/floor",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "floor",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 0,
+			"y": 16,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/encore/Forest",
+			"flipX": false,
+			"filters": 1,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Forest",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -281,
+			"y": -146,
+			"scale": [
+				1,
+				1
+			],
+			"image": "ASHL/encore/encoreLight",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "transOverlay",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 0.5,
+			"type": "sprite"
+		}
+	],
+	"directory": "",
+	"opponent": [
+		189,
+		112
+	],
+	"camera_speed": 5
+}

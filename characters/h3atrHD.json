@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "H3atrIdle"
+		},
+		{
+			"offsets": [-34, 113],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UH3atr0"
+		},
+		{
+			"offsets": [32, -123],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DH3atr0"
+		},
+		{
+			"offsets": [15, 17],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LH3atr0"
+		},
+		{
+			"offsets": [-26, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RH3atr0"
+		},
+		{
+			"loop": false,
+			"offsets": [-17, 111],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UH3atrM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [28, -91],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DH3atrM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [8, 20],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LH3atrM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-27, 12],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RH3atrM",
+			"indices": []
+		}
+	],
+	"vocals_file": "SH",
+	"no_antialiasing": true,
+	"image": "characters/snow_h3atyr",
+	"position": [-10, 520],
+	"healthicon": "SnowHD",
+	"flip_x": true,
+	"healthbar_colors": [17, 238, 166],
+	"camera_position": [150, -40],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

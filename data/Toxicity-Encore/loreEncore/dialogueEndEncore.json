@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "there, we're done now you can leave.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.03,
+			"portrait": "snow"
+		},
+		{
+			"expression": "talk",
+			"text": "Aw, you mad I beat you buddy?",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.03,
+			"portrait": "bfpix"
+		},
+		{
+			"expression": "talk",
+			"text": "ok you know what?",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.04,
+			"portrait": "snow"
+		},
+		{
+			"expression": "talk",
+			"text": "i wont stand for this.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.03,
+			"portrait": "snow"
+		},
+		{
+			"expression": "talk",
+			"text": "get yo stupid mic.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.025,
+			"portrait": "snow"
+		},
+		{
+			"expression": "talk",
+			"text": "your stupid speaker.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.02,
+			"portrait": "snow"
+		},
+		{
+			"expression": "talk",
+			"text": "and get the FUCK out of here",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.015,
+			"portrait": "snow"
+		},
+		{
+			"expression": "Dude",
+			"text": "WHERE WILL I GO, BITCH?",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.01,
+			"portrait": "bfpix"
+		},
+		{
+			"expression": "talk",
+			"text": "i don't give a shit.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.01,
+			"portrait": "snow"
+		},
+		{
+			"expression": "talk",
+			"text": "go get lost in that cave for all i care.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.015,
+			"portrait": "snow"
+		},
+		{
+			"expression": "Smile",
+			"text": "Yepperoni Mr. Pepperoni!",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.03,
+			"portrait": "bfpix"
+		},
+		{
+			"expression": "talk",
+			"text": "SHUT THE FUCK UP!",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.015,
+			"portrait": "snow"
+		}
+	]
+}

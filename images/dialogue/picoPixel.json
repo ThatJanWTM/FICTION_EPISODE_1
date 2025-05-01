@@ -1,0 +1,38 @@
+{
+	"position": [
+		0,
+		220
+	],
+	"dialogue_pos": "right",
+	"no_antialiasing": true,
+	"scale": 6,
+	"image": "picoPixel",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				-10
+			],
+			"anim": "Default",
+			"idle_offsets": [
+				0,
+				-11
+			],
+			"loop_name": "default",
+			"idle_name": "default"
+		},
+		{
+			"loop_name": "peeved",
+			"idle_offsets": [
+				0,
+				-11
+			],
+			"idle_name": "peeved",
+			"anim": "Peeved",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

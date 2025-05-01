@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "so uh...",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.03
+		},
+		{
+			"expression": "Default",
+			"text": "Bahp bee po bah spee skoip berp spumb blee perskutilium persm bahp pee bo bah bee borpiutium borgtitular skeep ditty boo!",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "bfpix",
+			"speed": 0.02
+		},
+		{
+			"expression": "talk",
+			"text": "OK JEEZ I'LL START IMMEDIATELY\\nHOLY CRAP!",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "i had like a joke but you probs would have not found it funny anyways.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.03,
+			"portrait": "snow"
+		}
+	]
+}

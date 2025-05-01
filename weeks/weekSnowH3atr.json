@@ -1,0 +1,49 @@
+{
+	"storyName": "Episode 1: A Snow H3ated Funk",
+	"difficulties": "Easy, Normal, Hard, Encore",
+	"hideFreeplay": false,
+	"weekBackground": "snow",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"H3ated",
+			"snow",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Toxicus Nubila",
+			"snow",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Toxicity",
+			"snow",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "A Snow H3ated Funk"
+}

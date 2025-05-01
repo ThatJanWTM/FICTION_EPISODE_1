@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "quer saber, isso não foi tão ruim, eu gostei até.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.03,
+			"portrait": "snow"
+		},
+		{
+			"expression": "Smile",
+			"text": "Tu não é nada mal também maluco de neve.",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.03,
+			"portrait": "BFpix"
+		},
+		{
+			"expression": "talk",
+			"text": "meu nome é Snow H3atr.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.03,
+			"portrait": "snow"
+		},
+		{
+			"expression": "Dude",
+			"text": "Que porra de nome Snow H3atr???",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.03,
+			"portrait": "BFpix"
+		},
+		{
+			"expression": "Smile",
+			"text": "De todo jeito eu sou o Boyfriend e essa é a Girlfriend!",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.03,
+			"portrait": "BFpix"
+		},
+		{
+			"expression": "talk",
+			"text": "legal, então, uh, a gente acabou, né?",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.03,
+			"portrait": "snow"
+		},
+		{
+			"expression": "Neutral",
+			"text": "Ah sim acabamo.",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.05,
+			"portrait": "BFpix"
+		},
+		{
+			"expression": "Smile",
+			"text": "Melhor a gente ir andando, valeu aí!",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.03,
+			"portrait": "BFpix"
+		},
+		{
+			"expression": "talk",
+			"text": "cês sabem que vocês tão entrando numa caverna né? ",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.03,
+			"portrait": "snow"
+		},
+		{
+			"expression": "talk",
+			"text": "eles não conseguem me escutar mais, ne?",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.055,
+			"portrait": "snow"
+		},
+		{
+			"expression": "talk",
+			"text": ".    .    .",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.17,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": "então tá, acho que vejo eles mais tarde.",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.04,
+			"sound": "WeekSH/SHVoiceClip"
+		}
+	]
+}

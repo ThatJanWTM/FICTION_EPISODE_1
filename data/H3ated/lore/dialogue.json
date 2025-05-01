@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "so uh...",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.05,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "Default",
+			"text": "Bahp!",
+			"boxState": "normal",
+			"portrait": "BFpix",
+			"speed": 0.03,
+			"sound": "WeekSH/BFPVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": "you want me to rap against you?",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.03,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": "ok sure.",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.03,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "Default",
+			"text": "Skeep boh!",
+			"boxState": "normal",
+			"portrait": "BFpix",
+			"speed": 0.03,
+			"sound": "WeekSH/BFPVoiceClip"
+		}
+	]
+}

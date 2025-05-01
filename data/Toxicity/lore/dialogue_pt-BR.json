@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "Smile",
+			"text": "Beat braba essa tua, maluco de neve!",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "BFpix",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "valeu, eu acho...",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "então, o que é que tu e tua mina fazem da vida?",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.03
+		},
+		{
+			"expression": "Smile",
+			"text": "Normalmente a gente só anda por aí e  pergunta se querem fazer um rap contra a gente.",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "BFpix",
+			"speed": 0.03
+		},
+		{
+			"expression": "Uh",
+			"text": "Quando não tão tentando me matar ou roubar minha alma ou só me deitar na  porrada, é claro. \n",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "BFpix",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "parece difícil moleque.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.03
+		},
+		{
+			"expression": "Neutral",
+			"text": "Mano a gente tem 19.",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "BFpix",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "parece difícil jovem adulto.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"portrait": "snow",
+			"speed": 0.03
+		},
+		{
+			"expression": "Default",
+			"text": "Não deixa isso te esquecer que a gente tem que terminar a batalha da gente!",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"portrait": "BFpix",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "ah sim aquilo...",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.05,
+			"sound": "WeekSH/SHVoiceClip"
+		}
+	]
+}

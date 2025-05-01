@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "name": "Fiction Overload Bonus Album",
+  "artists": ["ThatJan & Others"],
+  "albumArtAsset": "freeplay/albumRoll/fictionAlbumBonus",
+  "albumTitleAsset": "freeplay/albumRoll/fictionAlbum1-text"
+}

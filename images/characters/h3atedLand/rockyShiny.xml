@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="rockyShiny.png" width="112" height="125">
+	<SubTexture name="comboTwo0000" x="29" y="71" width="18" height="26" frameX="-6" frameY="-6" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0001" x="29" y="71" width="18" height="26" frameX="-6" frameY="-6" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0002" x="32" y="5" width="16" height="29" frameX="-7" frameY="-2" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0003" x="32" y="5" width="16" height="29" frameX="-7" frameY="-2" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0004" x="47" y="37" width="16" height="27" frameX="-7" frameY="-4" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0005" x="47" y="37" width="16" height="27" frameX="-7" frameY="-4" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0006" x="47" y="37" width="16" height="27" frameX="-7" frameY="-4" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0007" x="47" y="37" width="16" height="27" frameX="-7" frameY="-4" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0008" x="47" y="37" width="16" height="27" frameX="-7" frameY="-4" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0009" x="47" y="37" width="16" height="27" frameX="-7" frameY="-4" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0010" x="47" y="37" width="16" height="27" frameX="-7" frameY="-4" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0011" x="47" y="37" width="16" height="27" frameX="-7" frameY="-4" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0012" x="47" y="37" width="16" height="27" frameX="-7" frameY="-4" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0013" x="47" y="37" width="16" height="27" frameX="-7" frameY="-4" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0014" x="72" y="31" width="14" height="20" frameX="-8" frameY="-10" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0015" x="72" y="31" width="14" height="20" frameX="-8" frameY="-10" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0016" x="89" y="31" width="18" height="19" frameX="-6" frameY="-13" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0017" x="89" y="31" width="18" height="19" frameX="-6" frameY="-13" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0018" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0019" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0020" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0021" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0022" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0023" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0024" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0025" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0026" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0027" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0028" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0029" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0030" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0031" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0032" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0033" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0034" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="comboTwo0035" x="66" y="54" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="rocky cheer0000" x="89" y="77" width="18" height="19" frameX="-8" frameY="-15" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky cheer0001" x="5" y="101" width="18" height="19" frameX="-8" frameY="-15" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky cheer0002" x="50" y="77" width="17" height="20" frameX="-9" frameY="-13" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky cheer0003" x="72" y="5" width="20" height="23" frameX="-9" frameY="-10" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky cheer0004" x="5" y="71" width="21" height="27" frameX="-9" frameY="-6" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky cheer0005" x="5" y="5" width="24" height="31" frameX="-9" frameY="-2" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky cheer0006" x="66" y="54" width="16" height="20" frameX="-9" frameY="-13" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky cheer0007" x="66" y="54" width="16" height="20" frameX="-9" frameY="-13" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky cheer0008" x="66" y="54" width="16" height="20" frameX="-9" frameY="-13" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky cheer0009" x="66" y="54" width="16" height="20" frameX="-9" frameY="-13" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky cheer0010" x="66" y="54" width="16" height="20" frameX="-9" frameY="-13" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky cheer0011" x="66" y="54" width="16" height="20" frameX="-9" frameY="-13" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky cheer0012" x="66" y="54" width="16" height="20" frameX="-9" frameY="-13" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky left0000" x="26" y="101" width="18" height="19" frameX="-6" frameY="-13" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="rocky left0001" x="70" y="77" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="rocky right0000" x="85" y="54" width="14" height="20" frameX="-8" frameY="-10" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="rocky right0001" x="70" y="77" width="16" height="20" frameX="-7" frameY="-11" frameWidth="31" frameHeight="35"/>
+	<SubTexture name="rocky sad0000" x="5" y="39" width="18" height="29" frameX="-8" frameY="-4" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky sad0001" x="26" y="39" width="18" height="29" frameX="-8" frameY="-4" frameWidth="35" frameHeight="39"/>
+	<SubTexture name="rocky sad0002" x="51" y="5" width="18" height="29" frameX="-8" frameY="-4" frameWidth="35" frameHeight="39"/>
+</TextureAtlas>

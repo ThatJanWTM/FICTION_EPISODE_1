@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="negative-pixelpixel.png">
+<SubTexture name="idle0001" x="0" y="0" width="47" height="51" frameX="0" frameY="0" frameWidth="47" frameHeight="51" />
+
+<SubTexture name="confirm0001" x="47" y="0" width="47" height="51" frameX="0" frameY="0" frameWidth="47" frameHeight="51" />
+<SubTexture name="confirm0002" x="0" y="51" width="47" height="51" frameX="0" frameY="0" frameWidth="47" frameHeight="51" />
+<SubTexture name="confirm0003" x="47" y="51" width="47" height="51" frameX="0" frameY="0" frameWidth="47" frameHeight="51" />
+<SubTexture name="confirm0004" x="0" y="102" width="47" height="51" frameX="0" frameY="0" frameWidth="47" frameHeight="51" />
+
+</TextureAtlas>

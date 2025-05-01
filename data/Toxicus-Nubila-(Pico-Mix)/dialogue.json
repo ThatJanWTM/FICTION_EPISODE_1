@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "excuse me...",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.05,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": "who in the actual fuck are you?",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.03,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "Default",
+			"text": "Name's Pico.",
+			"boxState": "normal",
+			"portrait": "picoPixel",
+			"speed": 0.05,
+			"sound": "WeekSH/PicoVoiceClip"
+		},
+		{
+			"expression": "Default",
+			"text": "That thing over there is Nene.",
+			"boxState": "normal",
+			"portrait": "picoPixel",
+			"speed": 0.03,
+			"sound": "WeekSH/PicoVoiceClip"
+		},
+		{
+			"expression": "Default",
+			"text": "Hi",
+			"boxState": "normal",
+			"portrait": "nenePixel",
+			"speed": 0.05,
+			"sound": "WeekSH/NeneVoiceClip"
+		},
+		{
+			"expression": "Default",
+			"text": "i'm just gonna stop talking to people who fall here from now on...",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.03,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "Default",
+			"text": "Sounds good.",
+			"boxState": "normal",
+			"portrait": "picoPixel",
+			"speed": 0.05,
+			"sound": "WeekSH/PicoVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": "i liked the other guy better.",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.03,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "Peeved",
+			"text": ". . .",
+			"boxState": "normal",
+			"portrait": "picoPixel",
+			"speed": 0.15,
+			"sound": "WeekSH/PicoVoiceClip"
+		}
+	]
+}

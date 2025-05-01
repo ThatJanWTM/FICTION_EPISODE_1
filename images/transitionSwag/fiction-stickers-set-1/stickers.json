@@ -1,0 +1,22 @@
+{
+  "name": "fiction-stickers-set-1",
+  "artist": "ThatJan, Bluecyberpig",
+  "stickers": {
+    "snow": ["snowSticker1", "snowSticker2", "snowSticker3"],
+    "slimey": ["slimeSticker1", "slimeSticker2", "slimeSticker3"],
+    "rocky": ["rockSticker1", "rockSticker2", "rockSticker3"],
+    "jeff": ["jeffSticker1", "jeffSticker2", "jeffSticker3"],
+    "shiny": ["shinySticker1", "shinySticker2", "shinySticker3"],
+    "bonus": ["bonusSticker1", "bonusSticker2", "bonusSticker3", "bonusSticker4" ]
+  },
+  "stickerPacks": {
+    "snow": ["snow"],
+    "slimey": ["slimey"],
+    "rocky": ["rocky"],
+    "h3ated": ["snow", "slimey", "rocky"],
+    "jeff": ["jeff"],
+    "bonus": ["bonus"],
+    "shiny": ["shiny"],
+    "all": ["snow", "slimey", "rocky", "jeff", "bonus"]
+  }
+}

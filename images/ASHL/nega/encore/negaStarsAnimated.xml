@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<SubTexture name="twinkleStar0000" x="0" y="0" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+	<SubTexture name="twinkleStar0001" x="0" y="0" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+	<SubTexture name="twinkleStar0002" x="310" y="0" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+	<SubTexture name="twinkleStar0003" x="310" y="0" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+	<SubTexture name="twinkleStar0004" x="620" y="0" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+	<SubTexture name="twinkleStar0005" x="620" y="0" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+	<SubTexture name="twinkleStar0006" x="0" y="185" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+	<SubTexture name="twinkleStar0007" x="0" y="185" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+	<SubTexture name="twinkleStar0008" x="310" y="185" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+	<SubTexture name="twinkleStar0009" x="310" y="185" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+	<SubTexture name="twinkleStar0010" x="0" y="0" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+	<SubTexture name="twinkleStar0011" x="0" y="0" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+	<SubTexture name="twinkleStar0012" x="620" y="185" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+	<SubTexture name="twinkleStar0013" x="620" y="185" width="310" height="185" frameX="-2" frameY="-4" frameWidth="320" frameHeight="192" />
+</TextureAtlas>

@@ -1,0 +1,81 @@
+{
+	"preload": {
+		"images/jeff/jeffPlatform": 3,
+		"images/jeff/spotlightLight": 3
+	},
+	"_editorMeta": {
+		"boyfriend": "JeffBetter",
+		"dad": "senpai-angry",
+		"gf": "gf"
+	},
+	"girlfriend": [
+		315,
+		17
+	],
+	"stageUI": "",
+	"boyfriend": [
+		1023,
+		170
+	],
+	"defaultZoom": 0.5,
+	"objects": [
+		{
+			"x": -778,
+			"y": -976,
+			"scale": [
+				5,
+				5
+			],
+			"image": "jeff/jeffPlatform",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "jeffPlatform",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -793,
+			"y": -910,
+			"scale": [
+				5,
+				5
+			],
+			"image": "jeff/spotlightLight",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "spotlightJeff",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		}
+	],
+	"opponent": [
+		-112,
+		87
+	],
+	"directory": ""
+}

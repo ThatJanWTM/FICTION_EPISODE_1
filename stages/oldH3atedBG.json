@@ -1,0 +1,38 @@
+{
+	"preload": {
+		"images/oldh3atr/oldh3atrbackest": 3,
+		"images/oldh3atr/oldh3atrbg": 3,
+		"images/oldh3atr/oldh3atrground": 3
+	},
+	"_editorMeta": {
+		"boyfriend": "bf-pixel",
+		"gf": "gf-pixel",
+		"dad": "SnowH3atr"
+	},
+	"girlfriend": [
+		580,
+		430
+	],
+	"isPixelStage": true,
+	"boyfriend": [
+		970,
+		320
+	],
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"defaultZoom": 1,
+	"directory": "week6",
+	"opponent": [
+		100,
+		100
+	]
+}

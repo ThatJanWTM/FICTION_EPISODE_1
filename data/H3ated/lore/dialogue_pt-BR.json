@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "Default",
+			"text": "então uh…",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.05,
+			"portrait": "snow"
+		},
+		{
+			"expression": "Default",
+			"text": "Bahp!",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.03,
+			"portrait": "BFpix"
+		},
+		{
+			"expression": "talk",
+			"text": "quer que eu faça uma batalha de rap contigo?",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.03,
+			"portrait": "snow"
+		},
+		{
+			"expression": "talk",
+			"text": "então tá.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.03,
+			"portrait": "snow"
+		},
+		{
+			"expression": "Default",
+			"text": "Skeep boh!",
+			"boxState": "normal",
+			"sound": "WeekSH/BFPVoiceClip",
+			"speed": 0.03,
+			"portrait": "BFpix"
+		}
+	]
+}

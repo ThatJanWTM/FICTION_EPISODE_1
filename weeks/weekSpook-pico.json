@@ -1,0 +1,32 @@
+{
+	"storyName": "Why are you reading this? you nerd!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "Scary",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekSnowH3atr",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"SpookSong (Pico Mix)",
+			"jeff",
+			[
+				0,
+				160,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Spooky Scary Pt. 2",
+	"hiddenUntilUnlocked": false
+}

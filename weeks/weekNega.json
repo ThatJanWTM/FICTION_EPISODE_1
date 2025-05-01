@@ -1,0 +1,32 @@
+{
+	"storyName": "error: display name not found",
+	"difficulties": "Hard, Encore",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekSnowH3atr",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Negative Force",
+			"negative-pixel",
+			[
+				255,
+				0,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Negative Force"
+}

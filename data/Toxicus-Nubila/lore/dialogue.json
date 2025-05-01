@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "wow that was something.",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.03,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": ". . . ",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.3,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "Default",
+			"text": "Skeep boh!",
+			"boxState": "normal",
+			"portrait": "BFpix",
+			"speed": 0.03,
+			"sound": "WeekSH/BFPVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": "dude, stop squeakin’ out and actually speak.",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.03,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "Smug",
+			"text": "Alright.",
+			"boxState": "normal",
+			"portrait": "BFpix",
+			"speed": 0.03,
+			"sound": "WeekSH/BFPVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": "so, like, is there anything else to do…...?\r",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.04,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "Smile",
+			"text": "Song number 2 baby!!!",
+			"boxState": "normal",
+			"portrait": "BFpix",
+			"speed": 0.04,
+			"sound": "WeekSH/BFPVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": "oh.",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.055,
+			"sound": "WeekSH/SHVoiceClip"
+		}
+	]
+}

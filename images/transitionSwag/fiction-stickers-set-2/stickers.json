@@ -1,0 +1,10 @@
+{
+  "name": "fiction-stickers-set-2",
+  "artist": "ThatJan, Bluecyberpig",
+  "stickers": {
+    "bonus": ["bonusSticker1" ]
+  },
+  "stickerPacks": {
+    "all": ["bonus"]
+  }
+}

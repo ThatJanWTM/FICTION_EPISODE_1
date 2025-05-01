@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"Double Dilemma",
+			"bf",
+			[
+				46,
+				176,
+				209
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard, Encore",
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"storyName": "Double Dilemma",
+	"weekName": "doubleDilemma",
+	"hideStoryMode": true,
+	"weekBefore": "WeekSnowH3atr",
+	"startUnlocked": true
+}

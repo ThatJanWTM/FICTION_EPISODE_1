@@ -1,0 +1,101 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Flashing Camera",
+						"spirit",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"spirit"
+					],
+					[
+						"Toggle Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Change Character",
+						"BF",
+						"jeff-pixel"
+					],
+					[
+						"Flashing Camera",
+						"spirit",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Alt Idle Animation",
+						"BF",
+						""
+					],
+					[
+						"Flashing Camera",
+						"spirit",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					],
+					[
+						"Change Character",
+						"BF",
+						"JeffBetter"
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Set Cam Zoom",
+						"0.60",
+						""
+					],
+					[
+						"Flashing Camera",
+						"spirit",
+						""
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Toggle Trail",
+						"",
+						"1"
+					],
+					[
+						"Flashing Camera",
+						"Jeff",
+						""
+					]
+				]
+			]
+		]
+	}
+}

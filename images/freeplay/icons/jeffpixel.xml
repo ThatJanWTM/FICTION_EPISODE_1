@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="negative-pixelpixel.png" width="94" height="106">
+	<SubTexture name="idle0001" x="5" y="33" width="42" height="28" frameX="-3" frameY="-12" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0001" x="5" y="33" width="42" height="28" frameX="-3" frameY="-12" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0002" x="5" y="5" width="44" height="25" frameX="-0" frameY="-19" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0003" x="5" y="64" width="33" height="37" frameX="-5" frameY="-6" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm0004" x="52" y="5" width="37" height="31" frameX="-4" frameY="-9" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="confirm-hold0001" x="52" y="5" width="37" height="31" frameX="-4" frameY="-9" frameWidth="50" frameHeight="50"/>
+</TextureAtlas>

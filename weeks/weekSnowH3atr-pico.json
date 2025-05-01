@@ -1,0 +1,40 @@
+{
+	"storyName": "Episode 1 (Pico Mix): A Snow H3ated Funk",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "snow",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "WeekSnowH3atr",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"H3ated (Pico Mix)",
+			"snow",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Toxicus Nubila (Pico Mix)",
+			"snow",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "A Snow H3ated Funk"
+}

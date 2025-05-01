@@ -1,0 +1,32 @@
+{
+	"storyName": "Seriously, Why are you reading this?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "Scary",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekSnowH3atr",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Haunted Snow (Pico Mix)",
+			"snow",
+			[
+				255,
+				128,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Spooky Scary Pt. 1",
+	"hiddenUntilUnlocked": false
+}

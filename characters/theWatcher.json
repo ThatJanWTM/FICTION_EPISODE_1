@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [13, 9],
+			"anim": "danceLeft",
+			"fps": 10,
+			"name": "danceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [13, 9],
+			"anim": "danceRight",
+			"fps": 10,
+			"name": "danceRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [13, 9],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [13, 9],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [13, 9],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [13, 9],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/secret/Watcher",
+	"position": [0, -20],
+	"healthicon": "icon-watch-pixel",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [-240, 20],
+	"sing_duration": 6.1,
+	"scale": 3,
+	"_editor_isPlayer": false
+}

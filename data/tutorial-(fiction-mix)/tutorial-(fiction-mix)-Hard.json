@@ -1,0 +1,337 @@
+{
+	"player1": "bf-pixel",
+	"player2": "SnowH3atr",
+	"notes": [
+		{
+			"sectionNotes": [],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[9600, 4, 0],
+				[10800, 7, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[12000, 4, 0],
+				[13200, 7, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[14400, 0, 0],
+				[15600, 3, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[16800, 0, 0],
+				[18000, 3, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[19200, 6, 0],
+				[20400, 5, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[21600, 6, 0],
+				[22800, 5, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[24000, 2, 0],
+				[25200, 1, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[26400, 2, 0],
+				[27600, 1, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[28800, 4, 0],
+				[30000, 6, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[31200, 5, 0],
+				[32400, 7, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[33600, 0, 0],
+				[34800, 2, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[36000, 1, 0],
+				[37200, 3, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[38400, 5, 0],
+				[39000, 5, 0],
+				[39600, 6, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[40800, 5, 0],
+				[41400, 5, 0],
+				[42000, 7, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[43200, 1, 0],
+				[43800, 1, 0],
+				[44400, 2, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[45600, 1, 0],
+				[46200, 1, 0],
+				[46800, 3, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[48000, 5, 0],
+				[48300, 5, 0],
+				[48450, 5, 0],
+				[48600, 6, 0],
+				[48900, 7, 0],
+				[49200, 5, 0],
+				[49650, 7, 0],
+				[50100, 7, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[50400, 1, 0],
+				[50700, 0, 0],
+				[50850, 3, 0],
+				[51000, 2, 0],
+				[51300, 3, 0],
+				[51600, 1, 0],
+				[52050, 2, 0],
+				[52350, 3, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[52800, 5, 0],
+				[53100, 5, 0],
+				[53400, 6, 0],
+				[53550, 6, 0],
+				[53700, 6, 0],
+				[53850, 6, 0],
+				[54000, 4, 0],
+				[54300, 7, 0],
+				[54600, 4, 0],
+				[54900, 7, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[55200, 1, 0],
+				[55500, 1, 0],
+				[55800, 3, 0],
+				[55950, 0, 0],
+				[56100, 2, 0],
+				[56250, 1, 0],
+				[56400, 0, 0],
+				[56700, 3, 0],
+				[57000, 0, 0],
+				[57300, 3, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[57600, 6, 0],
+				[57900, 6, 0],
+				[58200, 5, 0],
+				[58500, 5, 0],
+				[58800, 4, 0],
+				[59100, 7, 0],
+				[59400, 4, 0],
+				[59700, 7, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"sectionNotes": [
+				[60000, 2, 0],
+				[60300, 2, 0],
+				[60600, 1, 0],
+				[60900, 1, 0],
+				[61200, 0, 0],
+				[61500, 3, 0],
+				[61800, 0, 0],
+				[62100, 3, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": true
+		},
+		{
+			"sectionNotes": [
+				[62400, 6, 0],
+				[62550, 5, 0],
+				[62700, 4, 0],
+				[62850, 7, 0],
+				[63000, 6, 0],
+				[63150, 5, 0],
+				[63300, 4, 0],
+				[63450, 7, 0],
+				[63600, 4, 0],
+				[64200, 7, 0]
+			],
+			"typeOfSection": 0,
+			"sectionBeats": 4,
+			"mustHitSection": false
+		},
+		{
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[64800, 0, 0],
+				[64950, 3, 0],
+				[65100, 1, 0],
+				[65250, 2, 0],
+				[65400, 3, 0],
+				[65550, 1, 0],
+				[65700, 2, 0],
+				[65850, 1, 0],
+				[66000, 0, 450],
+				[66600, 3, 450]
+			],
+			"sectionBeats": 4,
+			"bpm": 100,
+			"changeBPM": false,
+			"mustHitSection": true
+		},
+		{
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[67200, 2, 1050],
+				[67800, 5, 0],
+				[67950, 6, 0]
+			],
+			"sectionBeats": 4,
+			"altAnim": false,
+			"bpm": 100,
+			"changeBPM": false,
+			"mustHitSection": true
+		}
+	],
+	"player3": null,
+	"gameOverEnd": "WeekSH/EntoxicatedEnd",
+	"song": "Tutorial (Fiction Mix)",
+	"validScore": true,
+	"speed": 1.5,
+	"format": "psych_v1_convert",
+	"sectionLengths": [],
+	"gameOverSound": "",
+	"events": [],
+	"gfVersion": "gf-pixel",
+	"gameOverLoop": "WeekSH/Entoxicated",
+	"gameOverChar": "bf-pixel-dead",
+	"stage": "h3atedBackground",
+	"needsVoices": false,
+	"sections": 0,
+	"bpm": 100
+}

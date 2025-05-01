@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "that wasn't too bad.",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.03,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": "i actually liked it.\r",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.03,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "Smile",
+			"text": "You ain't half bad yourself snow man.",
+			"boxState": "normal",
+			"portrait": "BFpix",
+			"speed": 0.03,
+			"sound": "WeekSH/BFPVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": "name’s Snow H3atr.",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.03,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "Dude",
+			"text": "Fuckass name is Snow H3atr???",
+			"boxState": "normal",
+			"portrait": "BFpix",
+			"speed": 0.03,
+			"sound": "WeekSH/BFPVoiceClip"
+		},
+		{
+			"expression": "Smile",
+			"text": "Anyways I'm Boyfriend and this is Girlfriend!",
+			"boxState": "normal",
+			"portrait": "BFpix",
+			"speed": 0.03,
+			"sound": "WeekSH/BFPVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": "cool. so uh, we are done right?",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.03,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "Neutral",
+			"text": "Oh yea we are.",
+			"boxState": "normal",
+			"portrait": "BFpix",
+			"speed": 0.1,
+			"sound": "WeekSH/BFPVoiceClip"
+		},
+		{
+			"expression": "Smile",
+			"text": "We better get going then, c'ya!",
+			"boxState": "normal",
+			"portrait": "BFpix",
+			"speed": 0.03,
+			"sound": "WeekSH/BFPVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": "you do know you're walking into a cave right?",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.03,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": "they can't hear me can they?",
+			"boxState": "normal",
+			"portrait": "snow",
+			"speed": 0.055,
+			"sound": "WeekSH/SHVoiceClip"
+		},
+		{
+			"expression": "talk",
+			"text": ".    .    .",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.17,
+			"portrait": "snow"
+		},
+		{
+			"expression": "talk",
+			"text": "oh well then, guess i'll see '‘em later.",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.04,
+			"portrait": "snow"
+		}
+	]
+}

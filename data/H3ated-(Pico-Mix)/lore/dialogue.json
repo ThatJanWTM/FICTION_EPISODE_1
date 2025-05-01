@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "Default",
+			"text": "so uh...",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.05,
+			"portrait": "snow"
+		},
+		{
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.03,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait..."
+		},
+		{
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.05,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who are you two?"
+		},
+		{
+			"expression": "Default",
+			"text": "I don't gotta tell you anything.",
+			"boxState": "normal",
+			"sound": "WeekSH/PicoVoiceClip",
+			"speed": 0.03,
+			"portrait": "picoPixel"
+		},
+		{
+			"expression": "talk",
+			"text": "what?",
+			"boxState": "normal",
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.045,
+			"portrait": "snow"
+		},
+		{
+			"expression": "Default",
+			"text": "Just start the damn song.",
+			"boxState": "normal",
+			"sound": "WeekSH/PicoVoiceClip",
+			"speed": 0.03,
+			"portrait": "picoPixel"
+		},
+		{
+			"sound": "WeekSH/SHVoiceClip",
+			"speed": 0.07,
+			"portrait": "snow",
+			"boxState": "normal",
+			"expression": "Default",
+			"text": "ok..."
+		}
+	]
+}

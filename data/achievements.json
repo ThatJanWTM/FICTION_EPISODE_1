@@ -1,0 +1,129 @@
+[
+	{
+		"save": "tutorial_nomiss",
+		"name": "Tutorial So Good, He Died",
+		"description": "Full Combo Tutorial (Fiction Mix)"
+	},
+	{
+		"save": "tutorialPico_nomiss",
+		"name": "You Call THAT a Tutorial?!",
+		"description": "Full Combo Tutorial (Fiction Mix) (Pico Mix)"
+		"hidden": true
+	},
+	{
+		"save": "weekSnowH3atr_nomiss",
+		"name": "Snow B3ater",
+		"description": "Full Combo Snow H3atr's Week on Hard"
+	},
+	{
+		"save": "jeffSong_nomiss",
+		"name": "That Was Great!",
+		"description": "Full Combo JeffSong"
+	},
+	{
+		"save": "h3atedLand_nomiss",
+		"name": "Boll Problems (Or lack thereof)",
+		"description": "Full Combo H3ated Land"
+	},
+	{
+		"save": "negativeForce_nomiss",
+		"name": "onEndSong()",
+		"description": "Full Combo Negative Force"
+	},
+	{
+		"save": "hauntedSnow_nomiss",
+		"name": "This is the song you decided to FC?",
+		"description": "Full Combo Haunted Snow, despite your better judgement"
+	},
+	{
+		"save": "hauntedSnowPico_nomiss",
+		"name": "You Call This a Haunted Snow? Where's the Snow?",
+		"description": "Full Combo Haunted Snow (Pico Mix)"
+		"hidden": true
+	},
+	{
+		"save": "spookSong_nomiss",
+		"name": "Spooky Scary",
+		"description": "Full Combo SpookSong"
+	},
+	{
+		"save": "spookSongPico_nomiss",
+		"name": "I've Seen Worse.",
+		"description": "Full Combo SpookSong (Pico Mix)"
+		"hidden": true
+	},
+	{
+		"save": "double_nomiss",
+		"name": "There's 2 of em'!?",
+		"description": "Full Combo Double Dilemma"
+	},
+	{
+		"save": "doublePico_nomiss",
+		"name": "There's 1 of em'!?",
+		"description": "Full Combo Double Dilemma (Pico Mix)"
+		"hidden": true
+	},
+	{
+		"save": "shiny-teeth",
+		"name": "Shiny Hunter",
+		"description": "Get 5 Shiny Characters!",
+		"maxScore": 5,
+		"maxDecimals": 0,
+		"hidden": false
+	},
+	{
+		"save": "shinyTriple",
+		"name": "Shiny Triple",
+		"description": "Get all Shiny Characters in H3ated Land at once!",
+		"hidden": false
+	},
+	{
+		"save": "cat",
+		"name": "Cat",
+		"description": "GET THIS CAT OFF MY SCREEN",
+		"hidden": true
+	},
+	{
+		"save": "neneNope",
+		"name": "Nuh Uh!",
+		"description": "You can't change Nene to Cat",
+		"hidden": true
+	},
+	{
+		"save": "oldIcon",
+		"name": "Ludem Dare 47",
+		"description": "Press 9 to change BF's Ico- Wait, why isn't this part of base Psych?",
+		"hidden": true
+	},
+	{
+		"save": "meat",
+		"name": "Meat",
+		"description": "Found Meat",
+		"hidden": true
+	},
+	{
+		"save": "them_secret",
+		"name": "Void Encounter",
+		"description": "Come sing with me!"
+		"hidden": true
+	},
+	{
+		"save": "them_FC",
+		"name": "Void Enthusiast",
+		"description": "Thanks for singing with me!"
+		"hidden": true
+	},
+	{
+		"save": "her_secret",
+		"name": "Diagraphephobia",
+		"description": "How fitting of a name."
+		"hidden": true
+	},
+	{
+		"save": "her_FC",
+		"name": "Remembrance",
+		"description": "Glad to be remembered."
+		"hidden": true
+	}
+
+]

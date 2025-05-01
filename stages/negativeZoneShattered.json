@@ -1,0 +1,187 @@
+{
+	"camera_boyfriend": [
+		-250,
+		0
+	],
+	"preload": {
+		"images/characters/h3atedLand/slime-death-Shiny": 3,
+		"images/ASHL/nega/encore/negaStarsAnimated": 3,
+		"images/characters/h3atedLand/NegativeBeing": 3,
+		"images/characters/secret/ABC": 3,
+		"images/ASHL/": 3,
+		"images/characters/h3atedLand/Slimey": 3,
+		"images/ASHL/nega/Static": 3,
+		"images/ASHL/nega/encore/negaBackground": 3,
+		"images/ASHL/nega/SpotEye": 3,
+		"images/achievements/negativeForce_nomiss-pixel": 3,
+		"images/ASHL/nega/encore/negaGround": 3,
+		"images/characters/h3atedLand/Slimey-Shiny": 3,
+		"images/negativeflash": 3,
+		"images/ASHL/nega/encore/negaStarsLowEnd": 3,
+		"images/ASHL/nega/encore/negativeForceEncoreStageConcept": 3,
+		"images/characters/h3atedLand/slime-death": 3
+	},
+	"_editorMeta": {
+		"boyfriend": "lightingSlimey",
+		"dad": "lightingNB",
+		"gf": "Rocky"
+	},
+	"isPixelStage": true,
+	"girlfriend": [
+		167,
+		109
+	],
+	"stageUI": "pixel",
+	"boyfriend": [
+		585,
+		113
+	],
+	"defaultZoom": 0.85,
+	"objects": [
+		{
+			"x": -43,
+			"y": -174,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/nega/encore/negativeForceEncoreStageConcept",
+			"flipX": false,
+			"filters": 0,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "conceptArt",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -43,
+			"y": -174,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/nega/encore/negaBackground",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "negaBackground",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				0.5,
+				0.5
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 49,
+			"y": -154,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/nega/encore/negaStarsLowEnd",
+			"flipX": false,
+			"filters": 1,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "starsLowEnd",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				0.9,
+				1.5
+			],
+			"alpha": 0.3,
+			"type": "sprite"
+		},
+		{
+			"x": 49,
+			"y": -154,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/nega/encore/negaStarsAnimated",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "starsAnimated",
+			"firstAnimation": "twinkle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				0.9,
+				1.5
+			],
+			"alpha": 0.3,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 20,
+					"anim": "twinkle",
+					"indices": [],
+					"name": "twinkleStar"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -43,
+			"y": -174,
+			"scale": [
+				6,
+				6
+			],
+			"image": "ASHL/nega/encore/negaGround",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "negaGround",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		1000,
+		400
+	],
+	"opponent": [
+		189,
+		113
+	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": true,
+	"camera_opponent": [
+		100,
+		0
+	]
+}
