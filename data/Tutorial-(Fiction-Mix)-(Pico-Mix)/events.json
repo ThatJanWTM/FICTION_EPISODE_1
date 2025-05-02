@@ -1,0 +1,88 @@
+{
+	"events": [
+		[
+			47400,
+			[
+				["changeZoomNumber", "BF", "0.9"],
+				["changeZoomNumber", "Dad", "0.85"]
+			]
+		],
+		[
+			66480,
+			[
+				["changeZoomNumber", "Dad", "0.80"]
+			]
+		],
+		[
+			68640,
+			[
+				["changeZoomNumber", "Dad", "0.75"]
+			]
+		],
+		[
+			70320,
+			[
+				["changeZoomNumber", "Dad", "0.80"]
+			]
+		],
+		[
+			72480,
+			[
+				["changeZoomNumber", "Dad", "0.9"]
+			]
+		],
+		[
+			80640,
+			[
+				["changeZoomNumber", "BF", "1"],
+				["changeZoomNumber", "Dad", "1"]
+			]
+		],
+		[
+			96000,
+			[
+				["changeZoomNumber", "Dad", "0.85"],
+				["changeZoomNumber", "BF", "0.85"]
+			]
+		],
+		[
+			97200,
+			[
+				["changeZoomNumber", "Dad", "0.80"]
+			]
+		],
+		[
+			99360,
+			[
+				["changeZoomNumber", "Dad", "0.85"]
+			]
+		],
+		[
+			101040,
+			[
+				["changeZoomNumber", "Dad", "0.9"]
+			]
+		],
+		[
+			103200,
+			[
+				["changeZoomNumber", "Dad", "0.85"]
+			]
+		],
+		[
+			111360,
+			[
+				["changeZoomNumber", "BF", "0.80"],
+				["changeZoomNumber", "Dad", "0.80"]
+			]
+		],
+		[
+			126720,
+			[
+				["changeZoomNumber", "Dad", "1"],
+				["changeZoomNumber", "BF", "1"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

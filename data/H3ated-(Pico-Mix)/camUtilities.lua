@@ -21,24 +21,24 @@ function onCreate()
 end
 
 function onMoveCamera(focus)
-	if focus == 'boyfriend' and poopin == true then
-		setProperty('defaultCamZoom', bfZoom)
+	if focus == 'boyfriend' then
+		charTurn = 1
 	end
-	if focus == 'dad' and poopin == true then
-		setProperty('defaultCamZoom', dadZoom)
+	if focus == 'dad' then
+		charTurn = 2
 	end
-	if focus == 'gf' and poopin == true then
-		setProperty('defaultCamZoom', gfZoom)
+	if focus == 'gf' == true then
+		charTurn = 3
 	end
 end
 
 function onEvent(name, value1, value2)
 	if name == 'changeZoomNumber' then -- Change the name to your choice
-		if value1 == 'BF' then
+		if value1 == 'BF' and poopin == true then
 			bfZoom = value2
-		elseif value1 == 'Dad' then
+		elseif value1 == 'Dad' and poopin == true then
 			dadZoom = value2
-		elseif value1 == 'GF' then
+		elseif value1 == 'GF' and poopin == true then
 			gfZoom = value2
 
 		end
@@ -49,6 +49,7 @@ function onStepHit()
 	if curStep == 656 then
 		poopin = false
 		setProperty('camZooming', false)
+		doTweenAlpha('HUDleave', 'camHUD', 0, 8.735, 'linear')
 		doTweenZoom('testZoomTween', 'game', 1.3, 17.47, 'linear')
 	end
 end
@@ -57,7 +58,18 @@ end
 function onTweenCompleted()
 	if tag == 'testZoomTween' then
 		poopin = true
+		doTweenAlpha('HUDback', 'camHUD', 1, 0.5, 'circOut')
 		setProperty('camZooming', true)
+	end
+end
+
+function onUpdate()
+	if charTurn == 1 then
+		setProperty('defaultCamZoom', bfZoom)
+	elseif charTurn == 2 then
+		setProperty('defaultCamZoom', dadZoom)
+	elseif charTurn == 3 then
+		setProperty('defaultCamZoom', gfZoom)
 	end
 end
 
