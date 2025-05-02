@@ -1,7 +1,7 @@
 {
 	"camera_boyfriend": [
 		-50,
-		-50
+		0
 	],
 	"preload": {
 		"images/characters/bfPixel": 3,
@@ -24,7 +24,6 @@
 		347
 	],
 	"stageUI": "pixel",
-	"defaultZoom": 0.85,
 	"objects": [
 		{
 			"x": -623,
@@ -71,13 +70,13 @@
 			"type": "sprite"
 		},
 		{
-			"x": 37,
-			"y": 9,
+			"x": -731,
+			"y": 645,
 			"scale": [
 				6,
 				6
 			],
-			"image": "h3atr/h3atrground",
+			"image": "h3atr/h3atrgroundFixed",
 			"flipX": false,
 			"filters": 3,
 			"color": "FFFFFF",
@@ -126,9 +125,10 @@
 	],
 	"camera_girlfriend": [
 		0,
-		-50
+		-100
 	],
-	"camera_speed": 1,
+	"defaultZoom": 0.85,
+	"camera_speed": 1.2,
 	"directory": "",
 	"opponent": [
 		387,
@@ -136,7 +136,7 @@
 	],
 	"camera_opponent": [
 		0,
-		-50
+		0
 	],
 	"hide_girlfriend": false
 }
