@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<SubTexture name="LilSnow up0000" x="0" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow up0001" x="0" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow up0002" x="20" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow up0003" x="20" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow up0004" x="20" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow up0005" x="20" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow up0006" x="20" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow up0007" x="20" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow up0008" x="20" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow up0009" x="20" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow up0010" x="20" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow up0011" x="20" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow up0012" x="20" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow up0013" x="20" y="21" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cat.png">
+<SubTexture name="cat left0000" x="186" y="0" width="186" height="235" frameX="0" frameY="0" frameWidth="186" frameHeight="235" />
+<SubTexture name="cat left0001" x="0" y="0" width="186" height="235" frameX="0" frameY="0" frameWidth="186" frameHeight="235" />
+<SubTexture name="cat right0000" x="186" y="235" width="186" height="235" frameX="0" frameY="0" frameWidth="186" frameHeight="235" />
+<SubTexture name="cat right0001" x="0" y="235" width="186" height="235" frameX="0" frameY="0" frameWidth="186" frameHeight="235" />
+</TextureAtlas>

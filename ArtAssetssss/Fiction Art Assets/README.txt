@@ -1,0 +1,3 @@
+Most FLAs are made using Flash CS4, excluding a few (Notably JeffSpec and other Jeff related FLAs (Including his sticker pack))
+
+Most Sprites for Characters were made with Aseprite, however most of them aren't interesting enough to include the project file (I.E.: Goopus was made in Pixel Studio but they literally just contain the still frames, thus being no more useful than the sprite sheets themselves). Characters like Furg. have FLAs due to Liam using it for the XML. but others like Snow H3atr and the ASHL stuff don't as they used the XML and Sprite Sheet generator.

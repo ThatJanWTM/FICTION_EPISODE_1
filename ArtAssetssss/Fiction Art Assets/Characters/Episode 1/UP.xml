@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<SubTexture name="SnowH3atr UP0000" x="66" y="48" width="66" height="48" frameX="-1" frameY="-19" frameWidth="71" frameHeight="67" />
+	<SubTexture name="SnowH3atr UP0001" x="66" y="48" width="66" height="48" frameX="-1" frameY="-19" frameWidth="71" frameHeight="67" />
+	<SubTexture name="SnowH3atr UP0002" x="132" y="48" width="66" height="48" frameX="-1" frameY="-19" frameWidth="71" frameHeight="67" />
+	<SubTexture name="SnowH3atr UP0003" x="132" y="48" width="66" height="48" frameX="-1" frameY="-19" frameWidth="71" frameHeight="67" />
+	<SubTexture name="SnowH3atr UP0004" x="132" y="48" width="66" height="48" frameX="-1" frameY="-19" frameWidth="71" frameHeight="67" />
+	<SubTexture name="SnowH3atr UP0005" x="132" y="48" width="66" height="48" frameX="-1" frameY="-19" frameWidth="71" frameHeight="67" />
+	<SubTexture name="SnowH3atr UP0006" x="132" y="48" width="66" height="48" frameX="-1" frameY="-19" frameWidth="71" frameHeight="67" />
+	<SubTexture name="SnowH3atr UP0007" x="132" y="48" width="66" height="48" frameX="-1" frameY="-19" frameWidth="71" frameHeight="67" />
+	<SubTexture name="SnowH3atr UP0008" x="132" y="48" width="66" height="48" frameX="-1" frameY="-19" frameWidth="71" frameHeight="67" />
+</TextureAtlas>

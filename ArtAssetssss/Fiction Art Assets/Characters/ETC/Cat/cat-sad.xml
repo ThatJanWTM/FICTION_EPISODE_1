@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cat.png"><SubTexture name="cat sad0000" x="0" y="0" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0001" x="182" y="0" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0002" x="364" y="0" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0003" x="546" y="0" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0004" x="728" y="0" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0005" x="910" y="0" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0006" x="0" y="145" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0007" x="182" y="145" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0008" x="364" y="145" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0009" x="546" y="145" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0010" x="728" y="145" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0011" x="910" y="145" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0012" x="0" y="290" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0013" x="182" y="290" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0014" x="364" y="290" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0015" x="546" y="290" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0016" x="728" y="290" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0017" x="910" y="290" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0018" x="0" y="435" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0019" x="182" y="435" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0020" x="364" y="435" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0021" x="546" y="435" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0022" x="728" y="435" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0023" x="910" y="435" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0024" x="0" y="580" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0025" x="182" y="580" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0026" x="364" y="580" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0027" x="546" y="580" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0028" x="728" y="580" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0029" x="910" y="580" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0030" x="0" y="725" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0031" x="182" y="725" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0032" x="364" y="725" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0033" x="546" y="725" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0034" x="728" y="725" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0035" x="910" y="725" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+<SubTexture name="cat sad0036" x="0" y="870" width="182" height="145" frameX="0" frameY="0" frameWidth="182" frameHeight="145" />
+</TextureAtlas>

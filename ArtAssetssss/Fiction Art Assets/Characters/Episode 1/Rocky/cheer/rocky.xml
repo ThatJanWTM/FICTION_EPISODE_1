@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rocky.png"><SubTexture name="rocky cheer0000" x="0" y="0" width="35" height="39" frameX="0" frameY="0" frameWidth="35" frameHeight="39" />
+<SubTexture name="rocky cheer0001" x="35" y="0" width="35" height="39" frameX="0" frameY="0" frameWidth="35" frameHeight="39" />
+<SubTexture name="rocky cheer0002" x="0" y="39" width="35" height="39" frameX="0" frameY="0" frameWidth="35" frameHeight="39" />
+<SubTexture name="rocky cheer0003" x="35" y="39" width="35" height="39" frameX="0" frameY="0" frameWidth="35" frameHeight="39" />
+<SubTexture name="rocky cheer0004" x="0" y="78" width="35" height="39" frameX="0" frameY="0" frameWidth="35" frameHeight="39" />
+<SubTexture name="rocky cheer0005" x="35" y="78" width="35" height="39" frameX="0" frameY="0" frameWidth="35" frameHeight="39" />
+<SubTexture name="rocky cheer0006" x="0" y="117" width="35" height="39" frameX="0" frameY="0" frameWidth="35" frameHeight="39" />
+</TextureAtlas>

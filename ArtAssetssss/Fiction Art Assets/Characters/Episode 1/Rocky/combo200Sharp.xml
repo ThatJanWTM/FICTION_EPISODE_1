@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<SubTexture name="comboTwo0000" x="0" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0001" x="0" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0002" x="25" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0003" x="25" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0004" x="50" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0005" x="50" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0006" x="50" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0007" x="50" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0008" x="50" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0009" x="50" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0010" x="50" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0011" x="50" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0012" x="50" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0013" x="50" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0014" x="75" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0015" x="75" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0016" x="100" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0017" x="100" y="64" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0018" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0019" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0020" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0021" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0022" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0023" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0024" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0025" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0026" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0027" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0028" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0029" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0030" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0031" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0032" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0033" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0034" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+	<SubTexture name="comboTwo0035" x="100" y="32" width="25" height="32" frameX="-6" frameY="0" frameWidth="31" frameHeight="35" />
+</TextureAtlas>

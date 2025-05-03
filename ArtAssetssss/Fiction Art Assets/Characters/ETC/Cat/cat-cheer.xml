@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cat.png"><SubTexture name="cat cheer0000" x="0" y="0" width="175" height="164" frameX="0" frameY="0" frameWidth="175" frameHeight="164" />
+<SubTexture name="cat cheer0001" x="0" y="164" width="175" height="164" frameX="0" frameY="0" frameWidth="175" frameHeight="164" />
+<SubTexture name="cat cheer0002" x="0" y="328" width="175" height="164" frameX="0" frameY="0" frameWidth="175" frameHeight="164" />
+</TextureAtlas>

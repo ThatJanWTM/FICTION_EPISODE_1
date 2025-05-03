@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<SubTexture name="LilSnow Idle0000" x="0" y="0" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow Idle0001" x="20" y="0" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow Idle0002" x="40" y="0" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+	<SubTexture name="LilSnow Idle0003" x="60" y="0" width="20" height="21" frameX="-3" frameY="-6" frameWidth="27" frameHeight="31" />
+</TextureAtlas>
