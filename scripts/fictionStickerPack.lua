@@ -10,7 +10,7 @@ function onCreate()
 end
 
 function onDestroy()
-	if achievementExists('meat') and not isAchievementUnlocked('meat') and secretMeatSticker == 25 then 
+	if achievementExists('meat') and not isAchievementUnlocked('meat') and secretMeatSticker == 25 then
 		unlockAchievement('meat')
 	end
 end
