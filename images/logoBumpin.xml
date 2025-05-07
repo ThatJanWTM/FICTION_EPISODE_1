@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
--->
+
 <TextureAtlas imagePath="logoBumpin.png" width="1195" height="1150">
+
 	<SubTexture name="logo bumpin0000" x="610" y="564" width="572" height="549" frameX="-24" frameY="-28" frameWidth="624" frameHeight="624"/>
 	<SubTexture name="logo bumpin0001" x="5" y="5" width="602" height="577" frameX="-9" frameY="-13" frameWidth="624" frameHeight="624"/>
 	<SubTexture name="logo bumpin0002" x="5" y="5" width="602" height="577" frameX="-9" frameY="-13" frameWidth="624" frameHeight="624"/>
