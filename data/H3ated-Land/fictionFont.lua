@@ -1,3 +1,7 @@
+function onCreate()
+	setPropertyFromClass("substates.StickerSubState", "STICKER_PACK", "h3ated")
+end
+
 function onCreatePost()
 	setTextFont('scoreTxt', 'FictionPixel.ttf');
 	setTextSize('scoreTxt', 16)

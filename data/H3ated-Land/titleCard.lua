@@ -19,7 +19,7 @@ end
 function onCustomSubstateCreate(n)
     if n == "titleCard" then
 		--The Fuckin SOUND
-		playSound('ASHL/titleCardSound')
+		playSound('ASHL/titleCardSound', 1, 'titleSound')
 		
 		--Title Card Pop-Up
 		makeLuaSprite('titleCard', 'ASHL/titleCard', 0, 0)
@@ -55,6 +55,14 @@ end
 
 function onTimerCompleted(tag)
 	if tag == "titleDelay" then
+		titleCardGone()
+	end
+end
+
+
+
+function titleCardGone()
+	stopSound('titleSound')
 	
 	removeLuaSprite('titleCard')
 	removeLuaSprite('slimeyMove')
@@ -66,13 +74,15 @@ function onTimerCompleted(tag)
 	setProperty('camGame.visible', true)
 	
 	closeCustomSubstate()
-	end
 end
 
-
-
-
-
+function onCustomSubstateUpdate(n)
+	if n == 'titleCard' then
+		if (keyboardJustPressed('ESCAPE') or keyboardJustPressed('ENTER')) then
+			titleCardGone()
+   		end
+	end	
+end
 
 
 
