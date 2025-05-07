@@ -10,17 +10,17 @@ function onCustomSubstateCreate(n)
     if n == 'fictionPause' then
 
 	--BG
-	makeLuaSprite('titleCard', 'ASHL/nega/pause', 0, 0)
+	makeLuaSprite('titleCard', 'ASHL/nega/pauseEncore', 0, 0)
 	addLuaSprite('titleCard', true)
 	scaleObject('titleCard', 3, 3)
 	setObjectCamera('titleCard', 'hud')
 	setProperty('titleCard.antialiasing', false);
 		
 	--Sound Effect
-	playSound('general/CamOff')	
+	playSound('ASHL/nega/ng_accept')	
 	
 	--Pause Text
-	makeLuaText('paused', 'P A U S E')
+	makeLuaText('paused', 'onPause()')
 	setTextFont('paused', 'FictionPixel.ttf');
 	setTextSize('paused', 24)
 	setProperty('paused.antialiasing', false);
@@ -30,7 +30,7 @@ function onCustomSubstateCreate(n)
 	screenCenter('paused', 'X');
 
 	--Resume Text
-	makeLuaText('resume', 'Resume')
+	makeLuaText('resume', 'onResume()')
 	setTextFont('resume', 'FictionPixel.ttf');
 	setTextSize('resume', 24)
 	setProperty('resume.antialiasing', false);
@@ -40,7 +40,7 @@ function onCustomSubstateCreate(n)
 	screenCenter('resume', 'X');
 
 	--Retry Stage Text
-	makeLuaText('restart', 'Retry Stage')
+	makeLuaText('restart', 'restartSong()')
 	setTextFont('restart', 'FictionPixel.ttf');
 	setTextSize('restart', 24)
 	setProperty('restart.antialiasing', false);
@@ -50,7 +50,7 @@ function onCustomSubstateCreate(n)
 	screenCenter('restart', 'X');
 
 	--Quit Stage Text
-	makeLuaText('quit', 'QUIT')
+	makeLuaText('quit', 'exitSong()')
 	setTextFont('quit', 'FictionPixel.ttf');
 	setTextSize('quit', 24)
 	setProperty('quit.antialiasing', false);
@@ -71,7 +71,7 @@ end
 function onCustomSubstateUpdate(n)
 	if n == 'fictionPause' then
 		if keyboardJustPressed('ESCAPE') then
-			playSound('general/CamOff')
+			playSound('ASHL/nega/ng_back')
 			closeCustomSubstate()
    		end
 	end	
@@ -88,9 +88,10 @@ end
 function onCustomSubstateUpdatePost(name)
 	if name == 'fictionPause' then
 		if keyboardJustPressed('ENTER') and optionSelected == 1 then
-			playSound('general/CamOff')
+			playSound('ASHL/nega/ng_accept')
 			closeCustomSubstate()
 		elseif keyboardJustPressed('ENTER') and optionSelected == 2 then
+			playSound('ASHL/nega/ng_accept')
 			restartSong()
 		elseif keyboardJustPressed('ENTER') and optionSelected == 3 then
 			runHaxeCode([[PlayState.seenCutscene = false]])
@@ -99,26 +100,26 @@ function onCustomSubstateUpdatePost(name)
 		end
 	end
 	if optionSelected == 1 then
-		setTextColor('resume', 'ffff00')
+		setTextColor('resume', 'ff00ff')
 		setTextColor('restart', 'ffffff')
 		setTextColor('quit', 'ffffff')
 	end
 	if optionSelected == 2 then
 		setTextColor('resume', 'ffffff')
-		setTextColor('restart', 'ffff00')
+		setTextColor('restart', 'ff00ff')
 		setTextColor('quit', 'ffffff')
 	end
 	if optionSelected == 3 then
 		setTextColor('resume', 'ffffff')
 		setTextColor('restart', 'ffffff')
-		setTextColor('quit', 'ff0000')
+		setTextColor('quit', 'ff00ff')
 	end
 	if (keyboardJustPressed('W') or keyboardJustPressed('UP')) then
 		chooseOption(-1)
-		playSound('scrollMenu')	
+		playSound('ASHL/nega/ng_move')
 	elseif (keyboardJustPressed('S') or keyboardJustPressed('DOWN')) then
 		chooseOption(1)
-		playSound('scrollMenu')
+		playSound('ASHL/nega/ng_move')
 	end
 end
 
