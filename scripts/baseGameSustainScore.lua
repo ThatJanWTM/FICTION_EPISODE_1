@@ -16,5 +16,6 @@ end
 function onUpdate()
 	if point == true then
 		addScore(1)
+		addHealth(0.002)
 	end
 end
