@@ -59,6 +59,7 @@ function onTimerCompleted(tag)
 	end
 end
 
+
 function titleCardGone()
 	stopSound('titleSound')
 	
@@ -81,10 +82,6 @@ function onCustomSubstateUpdate(n)
    		end
 	end	
 end
-
-
-
-
 
 
 
