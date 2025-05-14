@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "SnowH3atr IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "SnowH3atr UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "SnowH3atr DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "SnowH3atr LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "SnowH3atr RIGHT0",
+			"indices": []
+		}
+	],
+	"vocals_file": "SH",
+	"no_antialiasing": true,
+	"image": "characters/SnowH3atr",
+	"position": [190, 560],
+	"healthicon": "snow-pixel",
+	"flip_x": false,
+	"healthbar_colors": [5, 250, 48],
+	"camera_position": [-50, -160],
+	"sing_duration": 4,
+	"scale": 6,
+	"_editor_isPlayer": false
+}

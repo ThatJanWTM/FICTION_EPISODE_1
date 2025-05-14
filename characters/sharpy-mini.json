@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-10, -13],
+			"loop": false,
+			"fps": 8,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "rocky left"
+		},
+		{
+			"offsets": [-10, -13],
+			"loop": false,
+			"fps": 8,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "rocky right"
+		},
+		{
+			"offsets": [2, -1],
+			"loop": false,
+			"fps": 20,
+			"anim": "cheer",
+			"indices": [],
+			"name": "rocky cheer"
+		},
+		{
+			"loop": false,
+			"offsets": [2, -1],
+			"anim": "sad",
+			"fps": 3,
+			"name": "rocky sad",
+			"indices": []
+		},
+		{
+			"offsets": [-10, -13],
+			"indices": [],
+			"fps": 20,
+			"anim": "cheerSuper",
+			"loop": false,
+			"name": "comboTwo"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/h3atedLand/rockyShiny",
+	"position": [295, 204],
+	"healthicon": "idk man",
+	"flip_x": false,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [-230, -90],
+	"sing_duration": 6,
+	"scale": 6,
+	"_editor_isPlayer": false
+}

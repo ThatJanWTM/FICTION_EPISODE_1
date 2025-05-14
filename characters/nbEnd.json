@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [-3, -2],
+			"anim": "idle",
+			"fps": 12,
+			"name": "LilSnow Idle",
+			"indices": []
+		},
+		{
+			"offsets": [-3, -2],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "LilSnow up0"
+		},
+		{
+			"offsets": [-3, -2],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "LilSnow down0"
+		},
+		{
+			"offsets": [-3, -2],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LilSnow left0"
+		},
+		{
+			"offsets": [-3, -2],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "LilSnow right0"
+		}
+	],
+	"vocals_file": "NB",
+	"no_antialiasing": true,
+	"image": "characters/h3atedLand/nfeEnd",
+	"position": [295, 394],
+	"healthicon": "Negative-pixel",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 255],
+	"camera_position": [30, -90],
+	"sing_duration": 6,
+	"scale": 6,
+	"_editor_isPlayer": false
+}
