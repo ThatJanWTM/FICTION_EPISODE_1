@@ -1,6 +1,6 @@
 {
-	"player1": "Slimey",
-	"player2": "NegativeBeing",
+	"player1": "slimey-mini",
+	"player2": "negativebeing",
 	"notes": [
 		{
 			"typeOfSection": 0,
@@ -2441,7 +2441,7 @@
 	"events": [],
 	"gameOverSound": "ASHL/slimeyDie",
 	"gameOverLoop": "ASHL/NegativeGO",
-	"gameOverChar": "slime-death",
+	"gameOverChar": "slime-dead",
 	"needsVoices": true,
 	"stage": "negaZone",
 	"bpm": 185

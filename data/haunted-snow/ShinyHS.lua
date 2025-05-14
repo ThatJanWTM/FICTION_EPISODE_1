@@ -1,6 +1,6 @@
 veryIncreasedShinyOdds = true --cheater lol lmfao (higher rarities for showcases how else)
 
-shinyPlayer = {true, "h3atrHD", "h3atrHDShiny"} --1st value: shiny enabled, 2nd value: base character, 3rd value: shiny version
+shinyPlayer = {true, "h3atr-playable", "h3atr-playable-shiny"} --1st value: shiny enabled, 2nd value: base character, 3rd value: shiny version
 shinyOpponent = {false, "LilSnow", "LilSnow-Shiny"} --1st value: shiny enabled, 2nd value: base character, 3rd value: shiny version
 shinyGF = {false, "rocky", "rockyShiny"} --1st value: shiny enabled, 2nd value: base character, 3rd value: shiny version
 

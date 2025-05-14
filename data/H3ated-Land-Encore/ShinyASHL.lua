@@ -1,8 +1,8 @@
 veryIncreasedShinyOdds = true --cheater lol lmfao (higher rarities for showcases how else)
 
-shinyPlayer = {true, "Slimey", "Slimey-Shiny"} --1st value: shiny enabled, 2nd value: base character, 3rd value: shiny version
-shinyOpponent = {true, "LilSnow", "LilSnow-Shiny"} --1st value: shiny enabled, 2nd value: base character, 3rd value: shiny version
-shinyGF = {true, "rocky", "rockyShiny"} --1st value: shiny enabled, 2nd value: base character, 3rd value: shiny version
+shinyPlayer = {true, "slimey-mini", "slimey-mini-shiny"} --1st value: shiny enabled, 2nd value: base character, 3rd value: shiny version
+shinyOpponent = {true, "h3atr-mini", "h3atr-mini-shiny"} --1st value: shiny enabled, 2nd value: base character, 3rd value: shiny version
+shinyGF = {true, "rocky-mini", "sharpy-mini"} --1st value: shiny enabled, 2nd value: base character, 3rd value: shiny version
 
 -- i'm annoyed, i'm gonna ruin the whole point of the script.
 forceShinyPlayer = false

@@ -29,14 +29,14 @@ function onCustomSubstateCreate(n)
 		setProperty('titleCard.antialiasing', false);
 		
 		--Stupid piece of shit idiot son of mine walking on the fucking titleCard like a fucking bitch baby
-		if boyfriendName == 'Slimey' then
+		if boyfriendName == 'slimey-mini' then
 			makeAnimatedLuaSprite('slimeyMove', 'ASHL/slimeyMove', 0, 0)
 			addAnimationByPrefix('slimeyMove', 'loop', 'slimeyMove', 10, true);
 			scaleObject('slimeyMove', 3, 3)
 			setObjectCamera('slimeyMove', 'hud')
 			addLuaSprite('slimeyMove', true)
 			setProperty('slimeyMove.antialiasing', false);
-		elseif boyfriendName == 'Slimey-Shiny' then
+		elseif boyfriendName == 'slimey-mini-shiny' then
 			makeAnimatedLuaSprite('slimeyMove', 'ASHL/slimeyMove-shiny', 0, 0)
 			addAnimationByPrefix('slimeyMove', 'loop', 'slimeyMove', 10, true);
 			scaleObject('slimeyMove', 3, 3)

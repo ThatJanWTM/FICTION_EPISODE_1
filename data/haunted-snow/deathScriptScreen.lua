@@ -7,11 +7,11 @@ function onUpdate()
 		what = false
 		
 		--Changes the Image depending on whether you got shiny or not
-		if boyfriendName == 'h3atrHD' then
+		if boyfriendName == 'h3atr-playable' then
 			makeLuaSprite('deadSnow', 'deadSnow', 0, 0)
 			addLuaSprite('deadSnow', true)
 			setObjectCamera('deadSnow', 'hud')
-		elseif boyfriendName == 'h3atrHDShiny' then
+		elseif boyfriendName == 'h3atr-playable-shiny' then
 			makeLuaSprite('deadSnow-shiny', 'deadSnow-shiny', 0, 0)
 			addLuaSprite('deadSnow-shiny', true)
 			setObjectCamera('deadSnow-shiny', 'hud')
