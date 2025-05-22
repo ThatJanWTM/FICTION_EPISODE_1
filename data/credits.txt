@@ -1,6 +1,6 @@
 Fiction Overload
-Team Fiction BlueSky::BlueSky::BlueSky Link::https://bsky.app/profile/fictionoverload.bsky.social::161e27
-Team Fiction Twitter::Xitter::Twitter Link::https://twitter.com/ASHFunkin::000000
+Team Fiction BlueSky::BlueSky::Fiction Overload BlueSky Link::https://bsky.app/profile/fictionoverload.bsky.social::161e27
+Team Fiction Twitter::Xitter::Fiction Overload Twitter Link::https://twitter.com/ASHFunkin::000000
 
 Episode 1: A Snow H3ated Funk
 ThatJan::thatjan::Main Musician, Director, Charter, Sprite Artist, Voice of Snow H3atr::https://twitter.com/ThatJanOfficial::ff2b00
