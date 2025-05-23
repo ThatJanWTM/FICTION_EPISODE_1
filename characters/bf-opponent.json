@@ -1,90 +1,62 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-15,
-				0
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-15, 0],
 			"anim": "idle",
-			"indices": [],
-			"name": "BF idle dance"
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-28,
-				-50
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-28, -50],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "BF NOTE DOWN0"
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-30,
-				27
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-30, 27],
 			"anim": "singUP",
-			"indices": [],
-			"name": "BF NOTE UP0"
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-13,
-				5
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-13, 5],
 			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
 		},
 		{
-			"offsets": [
-				15,
-				-6
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [15, -6],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-52,
-				-7
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-52, -7],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/BOYFRIEND",
-	"position": [
-		-10,
-		350
-	],
+	"position": [-30, 410],
 	"healthicon": "bf",
 	"flip_x": true,
-	"healthbar_colors": [
-		49,
-		176,
-		209
-	],
-	"camera_position": [
-		130,
-		0
-	],
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [130, 0],
 	"sing_duration": 4,
 	"scale": 1,
 	"_editor_isPlayer": false

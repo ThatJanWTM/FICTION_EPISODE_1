@@ -4,13 +4,13 @@
 		0
 	],
 	"girlfriend": [
-		280,
-		150
+		150,
+		130
 	],
 	"stageUI": "Funkin",
 	"boyfriend": [
-		850,
-		117
+		747.5,
+		80
 	],
 	"objects": [
 		{
@@ -31,8 +31,8 @@
 	"camera_speed": 1,
 	"directory": "week1",
 	"opponent": [
-		-250,
-		90
+		-175,
+		45
 	],
 	"camera_opponent": [
 		150,

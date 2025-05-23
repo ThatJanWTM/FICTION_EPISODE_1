@@ -1,93 +1,93 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
 			"anim": "singUP",
-			"fps": 12,
-			"name": "SnowH3atr UP0",
-			"indices": []
+			"indices": [],
+			"name": "SnowH3atr UP0"
 		},
 		{
-			"loop": false,
 			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
 			"anim": "singDOWN",
-			"fps": 12,
-			"name": "SnowH3atr DOWN0",
-			"indices": []
+			"indices": [],
+			"name": "SnowH3atr DOWN0"
 		},
 		{
-			"loop": false,
 			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
 			"anim": "singLEFT",
-			"fps": 12,
-			"name": "SnowH3atr LEFT0",
-			"indices": []
+			"indices": [],
+			"name": "SnowH3atr LEFT0"
 		},
 		{
-			"loop": false,
 			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
 			"anim": "singRIGHT",
-			"fps": 12,
-			"name": "SnowH3atr RIGHT0",
-			"indices": []
+			"indices": [],
+			"name": "SnowH3atr RIGHT0"
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 12,
+			"offsets": [0, 0],
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "SnowH3atr UP MISS"
+			"fps": 12,
+			"name": "SnowH3atr UP MISS",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 12,
+			"offsets": [0, 0],
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "SnowH3atr DOWN MISS"
+			"fps": 12,
+			"name": "SnowH3atr DOWN MISS",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 12,
+			"offsets": [0, 0],
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "SnowH3atr LEFT MISS"
+			"fps": 12,
+			"name": "SnowH3atr LEFT MISS",
+			"indices": []
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 12,
+			"offsets": [0, 0],
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "SnowH3atr RIGHT MISS"
+			"fps": 12,
+			"name": "SnowH3atr RIGHT MISS",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
 			"anim": "danceLeft",
-			"fps": 12,
-			"name": "SnowH3atr IDLE",
-			"indices": []
+			"indices": [],
+			"name": "SnowH3atr IDLE"
 		},
 		{
-			"loop": false,
 			"offsets": [0, 0],
-			"anim": "danceRight",
+			"loop": false,
 			"fps": 12,
-			"name": "SnowH3atr IDLE",
-			"indices": []
+			"anim": "danceRight",
+			"indices": [],
+			"name": "SnowH3atr IDLE"
 		}
 	],
 	"vocals_file": "SH",
 	"no_antialiasing": true,
 	"image": "characters/SnowH3atr",
 	"position": [190, 560],
-	"healthicon": "snow-pixel",
+	"healthicon": "snowTEMP-pixel",
 	"flip_x": false,
-	"healthbar_colors": [5, 250, 48],
+	"healthbar_colors": [122, 245, 88],
 	"camera_position": [-90, -160],
 	"sing_duration": 4,
 	"scale": 6,
