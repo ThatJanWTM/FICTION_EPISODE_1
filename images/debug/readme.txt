@@ -1,0 +1,1 @@
+Temporary debug images should be placed here. Like for debugging certain things or for stuff like a hit box image.

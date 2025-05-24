@@ -10,16 +10,16 @@
 	},
 	"_editorMeta": {
 		"boyfriend": "pico",
-		"dad": "JeffHalloween",
+		"dad": "jeff-spooky",
 		"gf": "nene"
 	},
 	"girlfriend": [
-		343,
-		69
+		345,
+		93
 	],
 	"boyfriend": [
-		1023,
-		170
+		989,
+		168
 	],
 	"stageUI": "",
 	"objects": [
@@ -190,8 +190,8 @@
 	"defaultZoom": 0.45,
 	"camera_speed": 1.7,
 	"opponent": [
-		-170,
-		170
+		-44,
+		140
 	],
 	"directory": "",
 	"hide_girlfriend": false,

@@ -1,4 +1,8 @@
 {
+	"camera_boyfriend": [
+		-350,
+		0
+	],
 	"preload": {
 		"images/characters/SpecJeff": 3,
 		"images/jeff/spooky/jeffPlatformSpooky": 3,
@@ -6,16 +10,16 @@
 	},
 	"_editorMeta": {
 		"boyfriend": "bf",
-		"dad": "JeffHalloween",
+		"dad": "jeff-spooky",
 		"gf": "gf"
 	},
-	"girlfriend": [
-		343,
-		69
-	],
 	"boyfriend": [
-		1023,
-		170
+		989,
+		168
+	],
+	"girlfriend": [
+		345,
+		93
 	],
 	"stageUI": "",
 	"defaultZoom": 0.5,
@@ -75,8 +79,8 @@
 		}
 	],
 	"opponent": [
-		-170,
-		170
+		-44,
+		140
 	],
 	"directory": "",
 	"hide_girlfriend": false

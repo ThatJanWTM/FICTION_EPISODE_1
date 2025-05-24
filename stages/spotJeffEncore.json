@@ -5,8 +5,8 @@
 		"gf": "gf"
 	},
 	"preload": {
-		"images/jeff/encore/spotlightLightEncore": 3,
-		"images/jeff/encore/jeffPlatformEncore": 3,
+		"images/jeff/main/encore/spotlightLightEncore": 3,
+		"images/jeff/main/encore/jeffPlatformEncore": 3,
 		"images/characters/spirit": 3,
 		"images/weeb/": 3
 	},
@@ -28,7 +28,7 @@
 				5,
 				5
 			],
-			"image": "jeff/Encore/jeffPlatformEncore",
+			"image": "jeff/main/encore/jeffPlatformEncore",
 			"flipX": false,
 			"filters": 3,
 			"color": "FFFFFF",
@@ -59,7 +59,7 @@
 				5,
 				5
 			],
-			"image": "jeff/Encore/spotlightLightEncore",
+			"image": "jeff/main/encore/spotlightLightEncore",
 			"flipX": false,
 			"filters": 2,
 			"color": "FFFFFF",

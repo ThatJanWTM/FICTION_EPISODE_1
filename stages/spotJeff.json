@@ -1,7 +1,7 @@
 {
 	"preload": {
-		"images/jeff/jeffPlatform": 3,
-		"images/jeff/spotlightLight": 3
+		"images/jeff/main/jeffPlatform": 3,
+		"images/jeff/main/spotlightLight": 3
 	},
 	"_editorMeta": {
 		"boyfriend": "JeffBetter",
@@ -26,7 +26,7 @@
 				5,
 				5
 			],
-			"image": "jeff/jeffPlatform",
+			"image": "jeff/main/jeffPlatform",
 			"flipX": false,
 			"filters": 3,
 			"color": "FFFFFF",
@@ -57,7 +57,7 @@
 				5,
 				5
 			],
-			"image": "jeff/spotlightLight",
+			"image": "jeff/main/spotlightLight",
 			"flipX": false,
 			"filters": 2,
 			"color": "FFFFFF",
