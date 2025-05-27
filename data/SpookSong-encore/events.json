@@ -1,9 +1,136 @@
 {
 	"events": [
 		[
-			0,
+			2.8421709430404e-14,
 			[
 				["Set Song Length", "130000\r", "0, expoOut"]
+			]
+		],
+		[
+			43333.3333333333,
+			[
+				["changeZoomNumber", "dad", "0.8"]
+			]
+		],
+		[
+			44666.6666666667,
+			[
+				["changeZoomNumber", "dad", "0.9"]
+			]
+		],
+		[
+			44916.6666666667,
+			[
+				["changeZoomNumber", "dad", "1"]
+			]
+		],
+		[
+			45166.6666666667,
+			[
+				["changeZoomNumber", "dad", "1.1"]
+			]
+		],
+		[
+			45500,
+			[
+				["changeZoomNumber", "dad", "0.8"]
+			]
+		],
+		[
+			48666.6666666667,
+			[
+				["changeZoomNumber", "bf", "0.8"]
+			]
+		],
+		[
+			50000,
+			[
+				["changeZoomNumber", "bf", "0.9"]
+			]
+		],
+		[
+			50250,
+			[
+				["changeZoomNumber", "bf", "1"]
+			]
+		],
+		[
+			50500,
+			[
+				["changeZoomNumber", "bf", "1.1"]
+			]
+		],
+		[
+			50833.3333333334,
+			[
+				["changeZoomNumber", "bf", "0.8"]
+			]
+		],
+		[
+			54000,
+			[
+				["changeZoomNumber", "dad", "0.8"],
+				["changeZoomNumber", "bf", "0.85"]
+			]
+		],
+		[
+			64666.6666666667,
+			[
+				["changeZoomNumber", "dad", "0.9"]
+			]
+		],
+		[
+			65333.3333333334,
+			[
+				["changeZoomNumber", "dad", "0.7"]
+			]
+		],
+		[
+			67333.3333333334,
+			[
+				["changeZoomNumber", "bf", "0.9"]
+			]
+		],
+		[
+			68000,
+			[
+				["changeZoomNumber", "bf", "0.7"]
+			]
+		],
+		[
+			70000,
+			[
+				["changeZoomNumber", "bf", "1"]
+			]
+		],
+		[
+			70500,
+			[
+				["changeZoomNumber", "bf", "0.9"]
+			]
+		],
+		[
+			71333.3333333334,
+			[
+				["changeZoomNumber", "bf", "0.7"]
+			]
+		],
+		[
+			72666.6666666667,
+			[
+				["changeZoomNumber", "dad", "1"]
+			]
+		],
+		[
+			73166.6666666667,
+			[
+				["changeZoomNumber", "dad", "0.9"]
+			]
+		],
+		[
+			74000,
+			[
+				["changeZoomNumber", "dad", "0.7"]
 			]
 		],
 		[
@@ -13,22 +140,77 @@
 			]
 		],
 		[
+			75333.3333333333,
+			[
+				["changeZoomNumber", "Dad", "0.9"]
+			]
+		],
+		[
+			76666.6666666667,
+			[
+				["changeZoomNumber", "Dad", "0.8"]
+			]
+		],
+		[
+			78000,
+			[
+				["changeZoomNumber", "bf", "1"]
+			]
+		],
+		[
+			79333.3333333333,
+			[
+				["changeZoomNumber", "bf", "0.9"]
+			]
+		],
+		[
+			80666.6666666667,
+			[
+				["changeZoomNumber", "dad", "0.7"]
+			]
+		],
+		[
+			82000,
+			[
+				["changeZoomNumber", "dad", "0.8"]
+			]
+		],
+		[
+			83333.3333333333,
+			[
+				["changeZoomNumber", "bf", "0.85"]
+			]
+		],
+		[
+			84666.6666666666,
+			[
+				["changeZoomNumber", "bf", "0.75"]
+			]
+		],
+		[
+			86000,
+			[
+				["changeZoomNumber", "bf", "0.5"],
+				["changeZoomNumber", "bf", "0.46"]
+			]
+		],
+		[
 			86000,
 			[
 				["Toggle Trail", "0", ""]
 			]
 		],
 		[
-			128666.666666666,
+			107333.333333333,
 			[
-				["HUD gone", "", ""],
-				["Flashing Camera", "blue", ""]
+				["changeZoomNumber", "bf", "0.7"],
+				["changeZoomNumber", "dad", "0.75"]
 			]
 		],
 		[
-			139333.333333333,
+			138750,
 			[
-				["Set Song Length", "206000", "0.4, expoOut"]
+				["changeZoomNumber", "dad", "1"]
 			]
 		],
 		[
@@ -39,21 +221,52 @@
 			]
 		],
 		[
-			139333.333333333,
+			144666.666666667,
 			[
-				["Toggle Trail", "1", ""]
+				["changeZoomNumber", "bf", "0.9"]
 			]
 		],
 		[
-			139333.333333333,
+			160666.666666667,
 			[
-				["HUD return", "", ""]
+				["changeZoomNumber", "dad", "0.7"]
+			]
+		],
+		[
+			163833.333333333,
+			[
+				["changeZoomNumber", "dad", "0.75"]
+			]
+		],
+		[
+			164166.666666667,
+			[
+				["changeZoomNumber", "dad", "0.7"]
+			]
+		],
+		[
+			166000,
+			[
+				["changeZoomNumber", "bf", "0.65"]
+			]
+		],
+		[
+			169166.666666667,
+			[
+				["changeZoomNumber", "bf", "0.7"]
+			]
+		],
+		[
+			169500,
+			[
+				["changeZoomNumber", "bf", "0.65"]
 			]
 		],
 		[
 			182000,
 			[
-				["Set Cam Zoom", "1", ""]
+				["changeZoomNumber", "dad", "0.9"],
+				["changeZoomNumber", "bf", "1"]
 			]
 		]
 	],

@@ -36,9 +36,18 @@ function onStepHit()
 	if curStep == 8 then
 		setPropertyFromClass("openfl.Lib", "application.window.title", "FNF: Spook Song Encore (by caser)")
 	end
+	if curStep == 1544 then
+		doTweenAlpha('HUDleave', 'camHUD', 0, 1, 'linear')
+		doTweenAlpha('HUDback', 'camHUD', 1, 0.5, 'circOut')
+	end
+	if curStep == 1544 then
+		doTweenAlpha('HUDleave', 'camHUD', 0, 1, 'linear')
+	end
+	
 	
 	--Cool Effect when the "you know what" appears
 	if curStep == 1672 then 
+		doTweenAlpha('HUDback', 'camHUD', 1, 0.5, 'circOut')
 		setProperty('timeBarBG.visible',false)
 		setProperty('timeBar.visible',false)
 		setProperty('timeTxt.visible',false)
