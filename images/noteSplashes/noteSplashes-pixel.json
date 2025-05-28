@@ -1,0 +1,140 @@
+{
+	"animations": {
+		"blue2": {
+			"prefix": "blue2",
+			"offsets": [
+				-134,
+				-139
+			],
+			"indices": [],
+			"fps": [24,26],
+			"name": "blue2",
+			"noteData": 5
+		},
+		"green3": {
+			"prefix": "red3",
+			"offsets": [
+				-134,
+				-139
+			],
+			"indices": [],
+			"fps": [24,26],
+			"name": "green3",
+			"noteData": 10
+		},
+		"red": {
+			"prefix": "red1",
+			"offsets": [
+				-134,
+				-139
+			],
+			"indices": [],
+			"fps": [24,26],
+			"name": "red",
+			"noteData": 0
+		},
+		"blue3": {
+			"prefix": "blue3",
+			"offsets": [
+				-134,
+				-139
+			],
+			"indices": [],
+			"fps": [24,26],
+			"name": "blue3",
+			"noteData": 9
+		},
+		"red2": {
+			"prefix": "red2",
+			"offsets": [
+				-134,
+				-139
+			],
+			"indices": [],
+			"fps": [24,26],
+			"name": "red2",
+			"noteData": 4
+		},
+		"blue": {
+			"prefix": "blue1",
+			"offsets": [
+				-134,
+				-139
+			],
+			"indices": [],
+			"fps": [24,26],
+			"name": "blue",
+			"noteData": 1
+		},
+		"red3": {
+			"prefix": "red3",
+			"offsets": [
+				-134,
+				-139
+			],
+			"indices": [],
+			"fps": [24,26],
+			"name": "red3",
+			"noteData": 8
+		},
+		"green": {
+			"prefix": "red1",
+			"offsets": [
+				-134,
+				-139
+			],
+			"indices": [],
+			"fps": [24,26],
+			"name": "green",
+			"noteData": 2
+		},
+		"purple": {
+			"prefix": "red1",
+			"offsets": [
+				-134,
+				-139
+			],
+			"indices": [],
+			"fps": [24,26],
+			"name": "purple",
+			"noteData": 3
+		},
+		"purple2": {
+			"prefix": "red2",
+			"offsets": [
+				-134,
+				-139
+			],
+			"indices": [],
+			"fps": [24,26],
+			"name": "purple2",
+			"noteData": 7
+		},
+		"purple3": {
+			"prefix": "red3",
+			"offsets": [
+				-134,
+				-139
+			],
+			"indices": [],
+			"fps": [24,26],
+			"name": "purple3",
+			"noteData": 11
+		},
+		"green2": {
+			"prefix": "red2",
+			"offsets": [
+				-134,
+				-139
+			],
+			"indices": [],
+			"fps": [24,26],
+			"name": "green2",
+			"noteData": 6
+		}
+	},
+	"allowRGB": true,
+	"allowPixel": false,
+	"rgb": null,
+	"scale": 4
+}
