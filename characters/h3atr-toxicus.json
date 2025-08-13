@@ -83,7 +83,7 @@
 	],
 	"vocals_file": "SH",
 	"no_antialiasing": true,
-	"image": "characters/SnowH3atr",
+	"image": "characters/SnowH3atr/SnowH3atr",
 	"position": [190, 560],
 	"healthicon": "snowTEMP-pixel",
 	"flip_x": false,
