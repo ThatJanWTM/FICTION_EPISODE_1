@@ -1,9 +1,12 @@
 {
 	"songRating": 2,
+	"allowNewTag": false,
+	"allowErectVariants": false,
 	"freeplayPrevStart": 0,
 	"freeplayPrevEnd": 22.69,
 	"freeplaySongLength": 113.454,
 	"freeplayCharacter": "",
 	"albumId": "fictionAlbum1",
-	"altInstrumentalSongs": ""
+	"altInstrumentalSongs": "",
+	"freeplayWeekName": "Week Snow"
 }
