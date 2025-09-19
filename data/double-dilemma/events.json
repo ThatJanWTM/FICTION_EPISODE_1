@@ -1,266 +1,192 @@
 {
-	"song": {
-		"events": [
+	"events": [
+		[
+			3500,
 			[
-				3500,
-				[
-					[
-						"Hey!",
-						"BF ",
-						""
-					]
-				]
-			],
+				["Hey!", "BF ", ""]
+			]
+		],
+		[
+			7500,
 			[
-				7500,
-				[
-					[
-						"Hey!",
-						"BF",
-						""
-					]
-				]
-			],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			11500,
 			[
-				11500,
-				[
-					[
-						"Play Animation",
-						"hey",
-						"Dad"
-					]
-				]
-			],
+				["Play Animation", "hey", "Dad"]
+			]
+		],
+		[
+			15500,
 			[
-				15500,
-				[
-					[
-						"Play Animation",
-						"hey",
-						"Dad"
-					]
-				]
-			],
+				["Play Animation", "hey", "Dad"]
+			]
+		],
+		[
+			19500,
 			[
-				19500,
-				[
-					[
-						"Hey!",
-						"BF",
-						""
-					]
-				]
-			],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			23500,
 			[
-				23500,
-				[
-					[
-						"Hey!",
-						"BF",
-						""
-					]
-				]
-			],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			27500,
 			[
-				27500,
-				[
-					[
-						"Play Animation",
-						"hey",
-						"Dad"
-					]
-				]
-			],
+				["Play Animation", "hey", "Dad"]
+			]
+		],
+		[
+			31500,
 			[
-				31500,
-				[
-					[
-						"Play Animation",
-						"hey",
-						"Dad"
-					]
-				]
-			],
+				["Play Animation", "hey", "Dad"]
+			]
+		],
+		[
+			35500,
 			[
-				35500,
-				[
-					[
-						"Hey!",
-						"BF",
-						""
-					]
-				]
-			],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			39500,
 			[
-				39500,
-				[
-					[
-						"Hey!",
-						"BF",
-						""
-					]
-				]
-			],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			43500,
 			[
-				43500,
-				[
-					[
-						"Play Animation",
-						"hey",
-						"Dad"
-					]
-				]
-			],
+				["Play Animation", "hey", "Dad"]
+			]
+		],
+		[
+			47500,
 			[
-				47500,
-				[
-					[
-						"Play Animation",
-						"hey",
-						"Dad"
-					]
-				]
-			],
+				["Play Animation", "hey", "Dad"]
+			]
+		],
+		[
+			51500,
 			[
-				51500,
-				[
-					[
-						"Hey!",
-						"BF",
-						""
-					]
-				]
-			],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			55500,
 			[
-				55500,
-				[
-					[
-						"Hey!",
-						"BF",
-						""
-					]
-				]
-			],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			59500,
 			[
-				59500,
-				[
-					[
-						"Play Animation",
-						"hey",
-						"Dad"
-					]
-				]
-			],
+				["Play Animation", "hey", "Dad"]
+			]
+		],
+		[
+			63500,
 			[
-				63500,
-				[
-					[
-						"Play Animation",
-						"hey",
-						"Dad"
-					]
-				]
-			],
+				["Play Animation", "hey", "Dad"]
+			]
+		],
+		[
+			67500,
 			[
-				67500,
-				[
-					[
-						"Hey!",
-						"BF",
-						""
-					]
-				]
-			],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			71500,
 			[
-				71500,
-				[
-					[
-						"Hey!",
-						"BF",
-						""
-					]
-				]
-			],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			75500,
 			[
-				75500,
-				[
-					[
-						"Play Animation",
-						"hey",
-						"Dad"
-					]
-				]
-			],
+				["Play Animation", "hey", "Dad"]
+			]
+		],
+		[
+			79500,
 			[
-				79500,
-				[
-					[
-						"Play Animation",
-						"hey",
-						"Dad"
-					]
-				]
-			],
+				["Play Animation", "hey", "Dad"]
+			]
+		],
+		[
+			83500,
 			[
-				83500,
-				[
-					[
-						"Hey!",
-						"BF",
-						""
-					]
-				]
-			],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			87500,
 			[
-				87500,
-				[
-					[
-						"Hey!",
-						"BF",
-						""
-					]
-				]
-			],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			91500,
 			[
-				91500,
-				[
-					[
-						"Play Animation",
-						"hey",
-						"Dad"
-					]
-				]
-			],
+				["Play Animation", "hey", "Dad"]
+			]
+		],
+		[
+			95500,
 			[
-				95500,
-				[
-					[
-						"Play Animation",
-						"hey",
-						"Dad"
-					]
-				]
-			],
+				["Play Animation", "hey", "Dad"]
+			]
+		],
+		[
+			99500,
 			[
-				99500,
-				[
-					[
-						"Hey!",
-						"BF",
-						""
-					]
-				]
-			],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			107500,
 			[
-				107500,
-				[
-					[
-						"Play Animation",
-						"hey",
-						"Dad"
-					]
-				]
+				["Play Animation", "hey", "Dad"]
+			]
+		],
+		[
+			111000,
+			[
+				["Zoom Camera", "1,1.1", "easeOut"]
+			]
+		],
+		[
+			111375,
+			[
+				["Zoom Camera", "1,1.3", "easeOut"]
+			]
+		],
+		[
+			111750,
+			[
+				["Zoom Camera", "1,1.5", "easeOut"]
+			]
+		],
+		[
+			112000,
+			[
+				["Target Camera", "gf", "0,0,4,easeOut"],
+				["Zoom Camera", "1,0.8", "easeOut"]
+			]
+		],
+		[
+			144000,
+			[
+				["Zoom Camera", "4,1", "easeOut"]
 			]
 		]
-	}
+	],
+	"format": "psych_v1"
 }
