@@ -6,3 +6,4 @@ function onUpdate()
 		color = true
 	end
 end
+

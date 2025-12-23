@@ -1,1 +1,0 @@
-place your png files here, make sure they are the same name as the song.
