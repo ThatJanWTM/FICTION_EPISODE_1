@@ -1714,7 +1714,7 @@
 	"events": [],
 	"gfVersion": "Nothing",
 	"gameOverLoop": "Jeff/gameOver-JEFF",
-	"gameOverChar": "JeffBetter",
+	"gameOverChar": "jeff-dead",
 	"needsVoices": true,
 	"stage": "spotJeff",
 	"sections": 0,
